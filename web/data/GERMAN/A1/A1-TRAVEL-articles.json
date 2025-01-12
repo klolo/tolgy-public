@@ -1,0 +1,548 @@
+[
+  {
+    "id": 0,
+    "article": "Die Alpen sind ein beliebtes Reiseziel für viele Menschen. Sie sind bekannt für ihre schöne Natur und ihre vielen Möglichkeiten zum Wandern und Skifahren. In den Alpen gibt es viele charmante Dörfer und Städte zu besuchen, wie z.B. Zürich oder Innsbruck. Der Jungfraujoch ist ein beliebtes Ziel für Touristen, da man von dort aus eine wunderschöne Aussicht auf die umliegenden Berge hat.",
+    "questions": [
+      {
+        "question": "Wo sind die Alpen ein beliebtes Reiseziel?",
+        "answers": [
+          "in Österreich",
+          "in Deutschland",
+          "in der Schweiz"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Was ist ein beliebtes Ziel für Touristen in den Alpen?",
+        "answers": [
+          "der Jungfraujoch",
+          "die Arlberg Schnalser",
+          "der Zugspitze"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "In welchen Städten kann man im Text besuchen?",
+        "answers": [
+          "Zürich, Innsbruck",
+          "München, Wien",
+          "Berlin, Hamburg"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 1,
+    "article": "Die Schweiz hat viele schöne Seen. Der größte See ist der Genfersee. Er liegt an der Grenze zwischen der Schweiz und Frankreich. Viele Menschen fahren jeden Sommer auf den See. Sie baden oder segeln. Es gibt auch einige Inseln, die man erreichen kann. Die bekannteste Insel heißt Île Rousseau. Sie ist sehr schön und hat viele Bäume.",
+    "questions": [
+      {
+        "question": "Wo liegt der Genfersee?",
+        "answers": [
+          "Deutschland",
+          "Frankreich",
+          "Italien"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was machen viele Menschen auf dem See?",
+        "answers": [
+          "Fischen",
+          "Baden oder segeln",
+          "Skifahren"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie heißt die bekannteste Insel im Genfersee?",
+        "answers": [
+          "Île Rousseau",
+          "Genferinsel",
+          "Montreux-Insel"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 2,
+    "article": "Die Alpen sind sehr schön. Sie sind höher als die Berge in Deutschland. Es gibt viele Skilifte und Pisten. Man kann auch wandern oder Radfahren. Die Luft ist frisch und sauber. Es gibt viele Naturseen und Wasserfälle. Viele Menschen kommen hierher, um Urlaub zu machen.",
+    "questions": [
+      {
+        "question": "Was sind die Alpen?",
+        "answers": [
+          "Berge in Deutschland",
+          "Naturseen",
+          "Berge in Österreich"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was gibt es viele im Text?",
+        "answers": [
+          "Skilifte und Pisten",
+          "Radfahren",
+          "Wasserfälle"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Warum kommen Viele Menschen in die Alpen?",
+        "answers": [
+          "Um zu wandern",
+          "Um Radfahren zu gehen",
+          "Um Urlaub zu machen"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 3,
+    "article": "Der Bahnhof von Paris ist ein beliebtes Reiseziel für Touristen. Er liegt direkt am Seine-Fluss und bietet viele Geschäfte und Restaurants. Jeden Tag fahren mehrere Züge nach London, Berlin oder Amsterdam ab. Der Gare du Nord ist der Hauptbahnhof Frankreichs und hat viele Abfahrten nach Europa. Es gibt auch eine Metro-Station direkt im Bahnhof.",
+    "questions": [
+      {
+        "question": "Wohin fahren Züge aus dem Bahnhof von Paris?",
+        "answers": [
+          "Nach Berlin",
+          "Nach London oder Amsterdam",
+          "Nach New York"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo liegt der Hauptbahnhof Frankreichs?",
+        "answers": [
+          "Direkt am Seine-Fluss",
+          "In Paris",
+          "Am Rhein"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Gibt es eine Metro-Station direkt im Bahnhof?",
+        "answers": [
+          false,
+          true,
+          null
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 4,
+    "article": "Die Berliner Mauer ist ein interessantes Reiseziel in Deutschland. Sie war 28 Jahre lang der Grenze zwischen Ost- und Westberlin. Heute kann man sie besuchen und lernt viel über die Geschichte Deutschlands. Die Mauer ist 1.368 Meter lang und 3,6 Meter hoch. Es gibt viele Informationen an den Mauern und in Museen. Man kann auch den Checkpoint Charlie besuchen, wo viele Menschen versucht haben, nach Westberlin zu gelangen.",
+    "questions": [
+      {
+        "question": "Wie lang ist die Berliner Mauer?",
+        "answers": [
+          "1.368 Meter",
+          "3.600 Meter",
+          "1.000 Meter"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "In welchem Jahr war die Berliner Mauer erstellt?",
+        "answers": [
+          "1945",
+          "1961",
+          "1989"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo kann man den Checkpoint Charlie besuchen?",
+        "answers": [
+          "Am Brandenburger Tor",
+          "In einem Museum",
+          "Bei der Berliner Mauer"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 5,
+    "article": "Die Alpen sind ein beliebtes Reiseziel in Europa. Sie erstrecken sich über sieben Länder und haben eine lange Geschichte der Erschließung durch Touristen. Der höchste Berg ist der Mont Blanc mit 4.808 Metern Höhe. Die Berge sind sehr steil und bieten viele Möglichkeiten zum Wandern und Skifahren. Viele Städte wie Zürich, Mailand und Innsbruck liegen in der Nähe der Alpen.",
+    "questions": [
+      {
+        "question": "Wie viele Länder erstrecken sich die Alpen?",
+        "answers": [
+          "Fünf",
+          "Sieben",
+          "Zehn"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welcher Berg ist der höchste in den Alpen?",
+        "answers": [
+          "Mont Ventoux",
+          "Mont Blanc",
+          "Monte Rosa"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was bieten die Berge der Alpen vielen Menschen?",
+        "answers": [
+          "Viele Möglichkeiten zum Wandern und Skifahren",
+          "Möglichkeiten zum Schwimmen und Radfahren",
+          "Möglichkeiten zum Segeln und Surfen"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 6,
+    "article": "Die Bahamas sind ein interessantes Reiseziel. Sie haben viele schöne Strände und Korallenriffe. Der Großteil der Inseln wurde von den Briten besiedelt. Die Hauptstadt ist Nassau. Es gibt viele historische Gebäude, wie zum Beispiel das Fort Fincastle.",
+    "questions": [
+      {
+        "question": "Wo wurden die meisten Inseln von Die Bahamas besiedelt?",
+        "answers": [
+          "Von den Spaniern",
+          "Von den Briten",
+          "Von den Franzosen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was ist die Hauptstadt von Die Bahamas?",
+        "answers": [
+          "Miami",
+          "Nassau",
+          "New York"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele historische Gebäude gibt es auf Die Bahamas?",
+        "answers": [
+          0,
+          1,
+          "Viele"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 7,
+    "article": "Deutschland hat viele interessante Städte. Eine davon ist Berlin. Es gibt dort den Brandenburger Tor. Es ist ein wichtiger Turm in Deutschland. Er wurde 1791 erbaut. Jährlich kommen viele Touristen nach Berlin, um ihn zu sehen. Es gibt auch andere Sehenswürdigkeiten wie die Museen Island und das Berliner Fernsehturm.",
+    "questions": [
+      {
+        "question": "Wo wurde der Brandenburger Tor erbaut?",
+        "answers": [
+          "Berlin",
+          "München",
+          "Köln"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wann wurde der Brandenburger Tor erbaut?",
+        "answers": [
+          "1791",
+          "1919",
+          "1991"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Warum kommen viele Touristen nach Berlin?",
+        "answers": [
+          "Um die Museen Island zu sehen",
+          "Um das Berliner Fernsehturm zu besuchen",
+          "Um den Brandenburger Tor zu sehen"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 8,
+    "article": "Die Berliner Mauer fiel im Jahr 1989 ein. Es war ein wichtiger Schritt für die Freiheit in Europa. Heute kann man noch Reste der Mauer sehen. Viele Menschen besuchen jeden Tag den Museum-Bereich um mehr über Geschichte zu lernen.",
+    "questions": [
+      {
+        "question": "In welchem Jahr fiel die Berliner Mauer?",
+        "answers": [
+          "1985",
+          "1987",
+          "1989"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wofür war das Fällen der Berliner Mauer ein wichtiger Schritt?",
+        "answers": [
+          "für die Freiheit in Asien",
+          "für die Freiheit in Europa",
+          "für die Freiheit in Nordamerika"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo kann man heute noch Reste der Berliner Mauer sehen?",
+        "answers": [
+          "im Museum-Bereich",
+          "im Park-Bereich",
+          "nicht mehr überhaupt"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 9,
+    "article": "Die Bundesstraße 3 ist eine wichtige Straße in Deutschland. Sie führt von Hamburg nach Konstanz und hat etwa 550 Kilometer Länge. Sie wird auch als Alpenquerung bezeichnet, weil sie durch die Berge der Alpen führt. Die Straße ist wichtig für Reisende und Touristen, weil sie viele interessante Städte und Landschaften passiert.",
+    "questions": [
+      {
+        "question": "Wo beginnt die Bundesstraße 3?",
+        "answers": [
+          "Hamburg",
+          "Berlin",
+          "München"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wohin führt die Bundesstraße 3?",
+        "answers": [
+          "Nach Berlin",
+          "Nach Hamburg",
+          "Nach Konstanz"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Warum wird die Bundesstraße 3 auch als Alpenquerung bezeichnet?",
+        "answers": [
+          "Weil sie durch die Berge führt",
+          "Weil sie durch eine Stadt führt",
+          "Weil sie sehr lang ist"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 10,
+    "article": "Die Berge der Alpen sind sehr hoch. Sie erreichen Höhen von bis zu 4808 Meter über dem Meeresspiegel. Die höchste Erhebung ist der Montblanc in Frankreich. Jährlich besuchen viele Menschen die Berge, um Ski zu fahren oder Wandern zu gehen.",
+    "questions": [
+      {
+        "question": "Wie hoch sind die Alpen?",
+        "answers": [
+          "bis zu 200 Meter",
+          "bis zu 4808 Meter",
+          "bis zu 1000 Meter"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welcher Berg ist die höchste Erhebung in den Alpen?",
+        "answers": [
+          "Mont Ventoux",
+          "Montblanc",
+          "Matterhorn"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum besuchen viele Menschen die Berge jährlich?",
+        "answers": [
+          "um zu wandeln",
+          "um Ski zu fahren oder Wandern zu gehen",
+          "um Fisch zu angeln"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 11,
+    "article": "Die Berliner Mauer war 1676 Meter lang und stand von 1961 bis 1989 in Ost-Berlin. Sie wurde gebaut, um die DDR von Westberlin zu trennen. Viele Menschen versuchten, sie zu überwinden, aber viele wurden erwischt und in Haft genommen. Heute gibt es an ihrer Stelle einen Park mit einem Denkmal.",
+    "questions": [
+      {
+        "question": "Wann wurde die Berliner Mauer errichtet?",
+        "answers": [
+          "1960",
+          "1961",
+          "1962"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum wurde die Berliner Mauer gebaut?",
+        "answers": [
+          "Um die DDR von Westberlin zu verbinden",
+          "Um die DDR von Westberlin zu trennen",
+          "Um die DDR in Westberlin zu begraben"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was gibt es heute an der Stelle der Berliner Mauer?",
+        "answers": [
+          "Ein Denkmal mit einer Statue von Lenin",
+          "Ein Park mit einem Denkmal",
+          "Eine Straße mit einem Brunnen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 12,
+    "article": "Die schönsten Strände Deutschlands sind auf den Inseln im Nordsee und Mittelmeer zu finden. Die Föhr ist eine der bekanntesten Inseln in der Nordsee. Sie liegt etwa 60 Kilometer westlich von Deutschland und hat eine Fläche von etwa 18 Quadratkilometern. Der Strand von Südstrand auf Föhr ist sehr beliebt.",
+    "questions": [
+      {
+        "question": "Wo liegen die schönsten Strände Deutschlands?",
+        "answers": [
+          "Nordsee und Mittelmeer",
+          "Ostsee und Nordsee",
+          "Südsee und Mittelmeer"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie groß ist die Fläche der Insel Föhr?",
+        "answers": [
+          "10 Quadratkilometer",
+          "18 Quadratkilometer",
+          "20 Quadratkilometer"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo liegt der Strand Südstrand auf Föhr?",
+        "answers": [
+          "Ostsee",
+          "Nordsee",
+          "Mittelmeer"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 13,
+    "article": "Ich gehe gerne zum Flughafen und steige in einen Bus um nach Paris zu fahren. Dort kann ich den Eiffelturm besuchen oder die Seine entlang spazieren gehen. Frankreich hat sehr viele interessante Städte wie Lyon, Bordeaux und Marseille. In Deutschland gibt es auch viele sehenswerte Städte wie Berlin, München und Hamburg.",
+    "questions": [
+      {
+        "question": "Wo steigt der Sprecher in einem Bus um?",
+        "answers": [
+          "Am Bahnhof",
+          "Im Flughafen",
+          "In Paris"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was kann man im Frankreich besuchen?",
+        "answers": [
+          "Den Eiffelturm",
+          "Die Seine entlang spazieren gehen",
+          "Berlin"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "In welcher Stadt kann man den Eiffelturm besuchen?",
+        "answers": [
+          "Lyon",
+          "Paris",
+          "Marseille"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 14,
+    "article": "Die Amazonas ist ein Fluss in Südamerika. Sie entspringt im brasilianischen Bundesstaat Amazonas und fließt 6.800 Kilometer nach Osten durch Brasilien, Kolumbien, Peru und Ecuador. Am Ende mündet sie in den Atlantik. Die Amazonas ist der längste Fluss Amerikas und ein wichtiger Lebensraum für viele Tiere und Pflanzen.",
+    "questions": [
+      {
+        "question": "Wo entspringt der Amazonas?",
+        "answers": [
+          "Brasilien",
+          "Kolumbien",
+          "Peru",
+          "Ecuador"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie lange fließt der Amazonas?",
+        "answers": [
+          "3.000 Kilometer",
+          "6.800 Kilometer",
+          "4.500 Kilometer",
+          "2.100 Kilometer"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo mündet der Amazonas?",
+        "answers": [
+          "Pazifik",
+          "Atlantik",
+          "Indischer Ozean",
+          "Golf von Mexiko"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 15,
+    "article": "Das Berliner Fernsehturm ist ein bekanntes Wahrzeichen in Deutschland. Er erreicht eine Höhe von 368 Metern und bietet einen tollen Ausblick auf die Stadt. Jährlich besuchen ihn viele Touristen. Der Turm wurde 1969 erbaut und ist eines der höchsten Bauwerke in Europa.",
+    "questions": [
+      {
+        "question": "In welchem Jahr wurde der Berliner Fernsehturm erbaut?",
+        "answers": [
+          "1965",
+          "1969",
+          "1972"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie hoch ist der Berliner Fernsehturm?",
+        "answers": [
+          "200 Meter",
+          "368 Meter",
+          "500 Meter"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum besuchen viele Touristen den Berliner Fernsehturm",
+        "answers": [
+          "Weil er ein bekanntes Wahrzeichen ist",
+          "Weil er ein Hotel ist",
+          "Weil er eine Kirche ist"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },

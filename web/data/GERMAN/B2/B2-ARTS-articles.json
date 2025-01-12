@@ -1,0 +1,784 @@
+[
+  {
+    "id": 0,
+    "article": "Die Berliner Philharmonie ist ein bedeutendes Musikzentrum in Deutschland. Gegründet 1898 von Gustav Mahler, ist sie heute eines der bekanntesten Orchester der Welt. Mit über 2.500 Konzerten pro Jahr bietet sie ein breites Spektrum an Musikgenres, von Klassik bis hin zu Jazz und Pop. Der Hauptsaal mit seiner einzigartigen Akustik ist ein beliebter Veranstaltungsort für Solisten wie Pianisten oder Sänger.",
+    "questions": [
+      {
+        "question": "Wann wurde die Berliner Philharmonie gegründet?",
+        "answers": [
+          "1895",
+          "1898",
+          "1902"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wer gründete die Berliner Philharmonie?",
+        "answers": [
+          "Gustav Mahler",
+          "Wolfgang Amadeus Mozart",
+          "Ludwig van Beethoven"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viele Konzerte bietet die Berliner Philharmonie pro Jahr?",
+        "answers": [
+          "1.000",
+          "2.500",
+          "5.000"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 1,
+    "article": "Der Maler Paul Klee entdeckte während seines Aufenthalts in Schwitzerland das Interesse für die Kunst. Er studierte an der Kunstgewerbeschule in München und arbeitete später als Lehrer an der Kunstakademie in Bern. In seinen Werken kombinierte er Malerei, Grafik und Collagen zu einer einzigartigen Kunstform. Klee war ein wichtiger Vertreter des-expressionistischen Stils und beeinflusste viele andere Künstler seiner Zeit.",
+    "questions": [
+      {
+        "question": "Wo studierte Der Maler Paul Klee?",
+        "answers": [
+          "Kunstgewerbeschule in München",
+          "Akademie der Bildenden Künste in Berlin",
+          "Bauhaus in Weimar"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wo arbeitete Der Maler Paul Klee später als Lehrer?",
+        "answers": [
+          "Kunstakademie in Bern",
+          "Kunstgewerbeschule in München",
+          "Bauhaus in Weimar"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Kunstform kombinierte Der Maler Paul Klee in seinen Werken?",
+        "answers": [
+          "Malerei",
+          "Grafik und Collagen",
+          "Skulptur"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 2,
+    "article": "Der berühmte Maler Vincent van Gogh hat in seinem Leben nur ein einziges Gemälde verkauft, das \"Die Sonneblumen\" genannt wird. Es wurde 1888 an der Akademie von Brüssel für den Betrag von 400 Francs erworben. Heute ist es eines der bekanntesten und teuersten Werke van Goghs im ganzen Land.",
+    "questions": [
+      {
+        "question": "Wann wurde das Gemälde 'Die Sonneblumen' an der Akademie von Brüssel erworben?",
+        "answers": [
+          "1885",
+          "1887",
+          "1888"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Für welchen Preis wurde das Gemälde 'Die Sonneblumen' erworben?",
+        "answers": [
+          "200 Francs",
+          "400 Francs",
+          "800 Francs"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo wurde das Gemälde 'Die Sonneblumen' von Van Gogh erstellt?",
+        "answers": [
+          "Brüssel",
+          "Paris",
+          "Nuenen"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 3,
+    "article": "Die Berliner Philharmonie ist eines der bekanntesten Orchester der Welt und ihre Konzerte sind für Millionen von Musikliebhabern ein Höhepunkt. Das Gebäude selbst ist ein architektonischer Meisterwerk und wurde 1963 vom Architekten Hans Scharoun entworfen. Der Philharmonie-Garten im Hof ist ein beliebtes Ausflugsziel für Besucher und bietet einen ruhigen Ausblick auf die umliegenden Straßen.",
+    "questions": [
+      {
+        "question": "Wer entwarf das Gebäude der Berliner Philharmonie?",
+        "answers": [
+          "Hans Scharoun",
+          "Walter Gropius",
+          "Mies van der Rohe"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wofür ist der Philharmonie-Garten im Hof ein beliebtes Ausflugsziel?",
+        "answers": [
+          "Für die Konzerte",
+          "Für den ruhigen Ausblick auf die Straßen",
+          "Für die Architektur"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wann wurde das Gebäude der Berliner Philharmonie entworfen?",
+        "answers": [
+          "1953",
+          "1963",
+          "1975"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 4,
+    "article": "Der berühmte Maler Vincent van Gogh hat nur wenige Jahre nach seinem Tod anerkannt worden. Seine Werke wurden erst nach seinem Ableben bekannt und beliebt. Ein Beispiel dafür ist sein Gemälde \"Starry Night\", das 1889 entstand und in der Nähe seines Sanatoriums gemalt wurde, wo er sich zur Heilung von Depressionen aufhielt.",
+    "questions": [
+      {
+        "question": "Wann entstand das Gemälde 'Starry Night'?",
+        "answers": [
+          "1885",
+          "1887",
+          "1898"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo wurde das Gemälde 'Starry Night' gemalt?",
+        "answers": [
+          "Im Atelier van Goghs",
+          "In der Nähe seines Sanatoriums",
+          "Im Museum van Gogh"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Weshalb hielt sich Vincent van Gogh auf?",
+        "answers": [
+          "Aufgrund von Depressionen",
+          "Um seine Malerei zu verbessern",
+          "Um ein neues Werk zu schaffen"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 5,
+    "article": "Die moderne Kunst hat sich in den letzten Jahrzehnten rapide entwickelt und bietet heute eine Vielzahl an verschiedenen Stilen und Techniken. Einige der bekanntesten Künstler dieser Zeit sind die Pop-Art-Künstler Andy Warhol und Roy Lichtenstein, die mit ihrer Arbeit den amerikanischen Traum vom materiellen Wohlstand veranschaulichten.",
+    "questions": [
+      {
+        "question": "Wer sind die bekanntesten Künstler der Pop-Art?",
+        "answers": [
+          "Andy Warhol und Roy Lichtenstein",
+          "Pablo Picasso und Salvador Dalí",
+          "Jean-Michel Basquiat und Keith Haring"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welches ist ein Merkmal der modernen Kunst?",
+        "answers": [
+          "Vielfalt an Stilen und Techniken",
+          "Einheitlichkeit in Stil und Form",
+          "Konservatismus im künstlerischen Ausdruck"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Künstler veranschaulichten den amerikanischen Traum vom materiellen Wohlstand?",
+        "answers": [
+          "Andy Warhol und Roy Lichtenstein",
+          "Picasso und Dalí",
+          "Basquiat und Haring"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 6,
+    "article": "Die deutsche Malerei des 19. Jahrhunderts erlebte einen Aufschwung durch die Romantik. Künstler wie Caspar David Friedrich und Carl Blechen schufen Werke, die die menschliche Seele und die Natur erfassen sollten. Ihre Bilder waren geprägt von einer tiefgründigen Symbolik und einem starken Fokus auf Licht und Schatten.",
+    "questions": [
+      {
+        "question": "Wann erlebte die deutsche Malerei des 19. Jahrhunderts einen Aufschwung?",
+        "answers": [
+          "Romantik",
+          "Barock",
+          "Klassizismus"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welcher Künstler schuf Werke, die die menschliche Seele und die Natur erfassen sollten?",
+        "answers": [
+          "Caspar David Friedrich",
+          "Carl Blechen",
+          "Vincent van Gogh"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Merkmale waren geprägt von den Bildern der Romantik-Künstler?",
+        "answers": [
+          "tiefe Symbolik und Fokus auf Farben",
+          "tiefgründige Symbolik und starken Fokus auf Licht und Schatten",
+          "starke Farben und einfache Formen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 7,
+    "article": "Der berühmte italienische Maler Sandro Botticelli schuf im 15. Jahrhundert das Bild \"Die Geburt der Venus\", das heute als eines der bekanntesten Werke der Renaissance gilt. Die Darstellung einer nackten Frau aus dem Meer stammt von den griechischen Götterbildern und war ein Symbol für die Schönheit und die Macht des Weiblichen.",
+    "questions": [
+      {
+        "question": "Wer schuf das Bild 'Die Geburt der Venus'?",
+        "answers": [
+          "Leonardo da Vinci",
+          "Michelangelo",
+          "Sandro Botticelli"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Worin basiert die Darstellung einer nackten Frau aus dem Meer?",
+        "answers": [
+          "Römischen Götterbildern",
+          "Griechischen Götterbildern",
+          "Französischen Malereien"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was symbolisiert die Darstellung einer nackten Frau aus dem Meer?",
+        "answers": [
+          "die Macht des Mannes",
+          "die Schönheit und die Macht des Weiblichen",
+          "die Armut der Menschen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 8,
+    "article": "Die Berliner Philharmonie ist ein wichtiger Teil der Stadtlandschaft Berlins. Sie wurde 1808 als Konzerthaus gegründet und beherbergt heute eine der führenden Symphonieorchester der Welt. Der Architekt Otto Bartning entwarf den Bau in neoklassizistischem Stil, der 1963 eröffnet wurde. Das Gebäude ist bekannt für seine beeindruckenden Akustik und seine exklusive Ausstellung von Musikinstrumenten.",
+    "questions": [
+      {
+        "question": "Wer entwarf das Gebäude der Berliner Philharmonie?",
+        "answers": [
+          "Otto Bartning",
+          "Fritz Lang",
+          "Albert Einstein"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "In welchem Jahr wurde die Berliner Philharmonie eröffnet?",
+        "answers": [
+          "1908",
+          "1963",
+          "2001"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welches Stilarchitektur wird das Gebäude der Berliner Philharmonie zugeschrieben?",
+        "answers": [
+          "Gothic",
+          "Neoklassizistisch",
+          "Modern"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 9,
+    "article": "Die berühmte Kunsthalle in Hamburg ist ein wichtiger Bestandteil der Stadt und bietet einen Überblick über die europäische Kunst von der Renaissance bis ins 20. Jahrhundert. Mit etwa 8.000 Werken aus dem Besitz des Hamburger Senats und weiteren Leihgaben aus Museen und Privatsammlungen ist sie eine der größten Kunstsammlungen Deutschlands. Die Sammlung reicht von Tafelmalerei bis hin zu Skulpturen, Grafiken und Fotografien.",
+    "questions": [
+      {
+        "question": "Wie viele Werke hat die Kunsthalle in Hamburg etwa?",
+        "answers": [
+          "5.000",
+          "8.000",
+          "10.000"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Woher stammen die Leihgaben für die Kunstsammlung?",
+        "answers": [
+          "Privatsammlungen",
+          "Museen und Privatsammlungen",
+          "Alte Meister"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Gattung von Kunstwerken fehlt in der Sammlung nicht?",
+        "answers": [
+          "Tafelmalerei",
+          "Skulpturen",
+          "Grafiken"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 10,
+    "article": "Die Berliner Philharmonie ist ein bedeutendes Musikinstitut in Deutschland. Gegründet wurde sie 1882 von Hermann Wolff. Ihr Konzertsaal fasst etwa 2.400 Zuschauer und gilt als eines der schönsten Konzerthäuser der Welt. Der berühmte Dirigent Herbert von Karajan war langjähriger Generalmusikdirektor der Philharmonie.",
+    "questions": [
+      {
+        "question": "Wo wurde die Berliner Philharmonie gegründet?",
+        "answers": [
+          "Berlin",
+          "München",
+          "Kassel"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viele Zuschauer fasst der Konzertsaal der Berliner Philharmonie?",
+        "answers": [
+          "1.000",
+          "2.400",
+          "3.500"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wer war langjähriger Generalmusikdirektor der Berliner Philharmonie?",
+        "answers": [
+          "Hermann Wolff",
+          "Herbert von Karajan",
+          "Wolfgang Amadeus Mozart"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 11,
+    "article": "Das Museum von Moderner Kunst in Venedig zeichnet sich durch seine ungewöhnliche Architektur aus. Es wurde von dem italienischen Architekten Pietro Dazzi entworfen und 1959 eröffnet. Die Sammlung umfasst Werke bekannter Künstler wie Salvador Dalí, René Magritte und Pablo Picasso. Besonders bemerkenswert ist die Ausstellung von Leonardo da Vincis berühmtem Gemälde \"Mona Lisa\".",
+    "questions": [
+      {
+        "question": "Wer entwarf das Museum?",
+        "answers": [
+          "Pietro Dazzi",
+          "Leonardo da Vinci",
+          "René Magritte"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "In welchem Jahr wurde das Museum eröffnet?",
+        "answers": [
+          "1955",
+          "1959",
+          "1963"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welcher Künstler ist in der Ausstellung vertreten?",
+        "answers": [
+          "Salvador Dalí",
+          "Pablo Picasso",
+          "Leonardo da Vinci"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 12,
+    "article": "Die Berliner Philharmonie ist ein wichtiger Ort für die Musikwelt. Erbaut wurde sie 1963 und bietet heute 2.400 Plätze für Konzertbesucher. Der Architekt Hans Scharoun entwarf das Gebäude, das von einer riesigen Glasfassade dominiert wird. Im Inneren finden sich prunkvolle Räume mit Holzböden und -wänden. Die Philharmonie ist nicht nur ein Konzertsaal, sondern auch ein Museum für Musikinstrumente und eine Bildungseinrichtung.",
+    "questions": [
+      {
+        "question": "Wer entwarf das Gebäude der Berliner Philharmonie?",
+        "answers": [
+          "Hans Scharoun",
+          "Walter Gropius",
+          "Le Corbusier"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viele Plätze bietet die Berliner Philharmonie für Konzertbesucher?",
+        "answers": [
+          "1.200",
+          "2.400",
+          "3.600"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was ist im Inneren der Berliner Philharmonie zu finden?",
+        "answers": [
+          "Einfache Räume mit Betonböden und -wänden",
+          "Prunkvolle Räume mit Holzböden und -wänden",
+          "Glasfassaden"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 13,
+    "article": "Die Berliner Philharmonie ist ein berühmtes Musiktheater in Deutschland. Erbaut wurde sie zwischen 1960 und 1963 nach Plänen von Hans Scharoun. Das Gebäude ist bekannt für seine ungewöhnliche Architektur, die aus einer Mischung von Klassizismus und modernen Elementen besteht. Die Philharmonie beherbergt das Deutsche Symphonie-Orchester und bietet regelmäßig Konzerte aller Art an. Jedes Jahr finden hier auch die Berliner Philharmoniker-Festspiele statt, bei denen sich renommierte Musiker aus aller Welt treffen.",
+    "questions": [
+      {
+        "question": "Wann wurde die Berliner Philharmonie erbaut?",
+        "answers": [
+          "1950-1960",
+          "1960-1963",
+          "1945-1955"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wer entwarf das Gebäude der Berliner Philharmonie?",
+        "answers": [
+          "Hans Scharoun",
+          "Walter Gropius",
+          "Ludwig Mies van der Rohe"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welches Orchester beherbergt die Berliner Philharmonie?",
+        "answers": [
+          "Deutsche Symphonie-Orchester",
+          "Berliner Philharmoniker",
+          "Bayerisches Staatsorchester"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 14,
+    "article": "Die Kunst der Renaissance erlebt einen Aufschwung durch die italienischen Mäzene. Patronen wie Medici und Farnese fördern die Künste und ermöglichen es Künstlern wie Leonardo da Vinci, Michelangelo und Raffael, ihre Werke zu schaffen. Ihre Schöpfungen prägen das Gesamtbild der Renaissance und präsentieren sich bis heute als beeindruckende Beispiele für die Kunst der Epoche.",
+    "questions": [
+      {
+        "question": "Wer förderten die Künste während der Renaissance?",
+        "answers": [
+          "Medici und Farnese",
+          "Künstler wie Leonardo da Vinci, Michelangelo und Raffael",
+          "Die deutsche Kaiserin"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wer schufen beeindruckende Beispiele für die Kunst der Epoche?",
+        "answers": [
+          "Leonardo da Vinci und andere Künstler",
+          "Medici und Farnese",
+          "Michelangelo und Raffael"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Warum erlebte die Kunst der Renaissance einen Aufschwung?",
+        "answers": [
+          "Durch die italienischen Mäzene",
+          "Durch die deutsche Kaiserin",
+          "Durch Leonardo da Vinci"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 15,
+    "article": "Das Museum der Moderne in Venedig ist ein bedeutender Kulturvermittler. Es zeigt eine umfassende Sammlung zeitgenössischer Kunst von internationalen Künstlern wie Francis Bacon und Lucian Freud. Der Bau des Museums selbst ist ein Werk der Architektur, entworfen von Renzo Piano und Richard Rogers. Die Ausstellungsräume sind durch klare Linien und offene Räumlichkeiten gekennzeichnet, was den Besuchern eine unbeschränkte Sicht auf die Werke ermöglicht.",
+    "questions": [
+      {
+        "question": "Wer entwarf das Museum?",
+        "answers": [
+          "Renzo Piano und Richard Rogers",
+          "Leonardo da Vinci",
+          "Pablo Picasso"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Künstler sind in der Sammlung vertreten?",
+        "answers": [
+          "Francis Bacon und Lucian Freud",
+          "Vincent van Gogh und Claude Monet",
+          "Pablo Picasso und Salvador Dalí"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was kennzeichnet die Ausstellungsräume des Museums?",
+        "answers": [
+          " dunkle Räumlichkeiten",
+          "klare Linien und offene Räumlichkeiten",
+          "hohe Decken"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 16,
+    "article": "Die neue Ausstellung des Museums für Moderne Kunst in Berlin zeigt eine außergewöhnliche Sammlung von Werken des russischen Künstlers Wassily Kandinsky. Der Maler und Grafiker ist bekannt für seine abstrakten Kompositionen, die er durch den Einsatz von Farben und Formen schuf. Insgesamt sind über 100 Werke aus seiner Schaffensperiode zu sehen, darunter auch einige seiner berühmtesten Arbeiten wie \"Komposition VII\" und \"Improvisation\".",
+    "questions": [
+      {
+        "question": "Wer ist der russische Künstler, dessen Werke im Museum für Moderne Kunst in Berlin gezeigt werden?",
+        "answers": [
+          "Pavel Filonov",
+          "Vladimir Tatlin",
+          "Wassily Kandinsky"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Was sind die bekanntesten Merkmale der Werke von Wassily Kandinsky?",
+        "answers": [
+          "Sie sind realistisch",
+          "Sie sind abstract",
+          "Sie sind expressionistisch"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Werke von Wassily Kandinsky werden im Museum für Moderne Kunst in Berlin gezeigt?",
+        "answers": [
+          "50",
+          "100",
+          "200"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 17,
+    "article": "Die moderne Kunst der 20. Jahrhunderts wird geprägt durch die Abstraktion und den Surrealismus. Ein wichtiger Vertreter dieser Strömungen ist Salvador Dalí, dessen surrealistische Werke die Fantasie und das Unbewusste thematisieren. Seine bekannteste Arbeit ist wahrscheinlich \"Der große Masturbator\", ein Gemälde aus dem Jahr 1929, das die männliche Sexualität und die Rolle von Geschlecht und Gesellschaft aufgreift.",
+    "questions": [
+      {
+        "question": "Wer ist ein wichtiger Vertreter des Surrealismus?",
+        "answers": [
+          "Salvador Dalí",
+          "Pablo Picasso",
+          "René Magritte"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welches Jahr datiert das Gemälde 'Der große Masturbator' von Salvador Dalí?",
+        "answers": [
+          "1928",
+          "1929",
+          "1930"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Strömung ist geprägt durch Abstraktion und Surrealismus?",
+        "answers": [
+          "Expressionismus",
+          "Kubismus",
+          "Die moderne Kunst der 20. Jahrhunderts"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 18,
+    "article": "Der Klangkunstler Karlheinz Stockhausen hat einzigartige Kompositionen geschaffen, die den Hörer in eine andere Welt entführen. Sein Werk \"Telemusik\" ermöglicht es dem Zuhörer, über weite Entfernungen hinweg miteinander zu kommunizieren. Dieses Konzept basiert auf der Vorstellung, dass Musik als Medium für Gedanken und Gefühle dienen kann. Stockhausens Musik ist ein Beispiel dafür, wie sich die Grenzen zwischen Kunst und Wissenschaft aufheben lassen.",
+    "questions": [
+      {
+        "question": "Wer schuf einzigartige Kompositionen, die den Hörer in eine andere Welt entführen?",
+        "answers": [
+          "Karlheinz Stockhausen",
+          "Wolfgang Amadeus Mozart",
+          "Ludwig van Beethoven"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welches Werk ermöglicht es dem Zuhörer, über weite Entfernungen hinweg miteinander zu kommunizieren?",
+        "answers": [
+          "Telemusik",
+          "Symphonie Nr. 9",
+          "Konzert für Klavier und Orchester"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welches Konzept basiert auf der Vorstellung, dass Musik als Medium für Gedanken und Gefühle dienen kann?",
+        "answers": [
+          "Telemusik",
+          "Musikalische Kommunikation",
+          "Klangkunst"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 19,
+    "article": "Das Museum of Modern Art in New York City verfügt über eine der umfangreichsten Sammlungen moderner Kunst weltweit. Derzeit umfasst das Museum mehr als 200.000 Werke von Künstlern wie Picasso, Warhol und Pollock. Die Ausstellung rückt dabei insbesondere die frühen Jahre des 20. Jahrhunderts in den Vordergrund, als Künstler wie Marcel Duchamp und Francis Picabia neue Wege der Kunstentwicklung einschlugen.",
+    "questions": [
+      {
+        "question": "In welchem Jahrhundert rückt die Ausstellung insbesondere die frühen Jahre in den Vordergrund?",
+        "answers": [
+          "19. Jahrhundert",
+          "20. Jahrhundert",
+          "21. Jahrhundert"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welcher Künstler schlug neue Wege der Kunstentwicklung im Museum einschlagend?",
+        "answers": [
+          "Marcel Duchamp",
+          "Francis Picabia",
+          "Picasso"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viele Werke von Künstlern umfasst das Museum derzeit?",
+        "answers": [
+          "100.000",
+          "200.000",
+          "300.000"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 20,
+    "article": "Die Gemälde von Frida Kahlo sind ein wichtiger Teil ihrer Identität und ihres künstlerischen Erbes. Ihre Bilder zeichnen sich durch ihre emotionalen und symbolischen Bedeutungen aus. Insgesamt entstehen eine Vielzahl an Themen, die von Liebe, Tod, Krankheit bis hin zu politischer Unruhe reichen.",
+    "questions": [
+      {
+        "question": "Was sind die Gemälde von Frida Kahlo?",
+        "answers": [
+          "Ein Teil ihrer Identität und ihres künstlerischen Erbes",
+          "Ein Teil ihrer Kindheit und Jugend",
+          "Ein Teil ihrer politischen Agenda"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was zeichnet sich durch die emotionalen und symbolischen Bedeutungen aus?",
+        "answers": [
+          "Frida Kahlo's Bilder",
+          "Die Gemälde von Diego Rivera",
+          "Die Werke von Salvador Dalí"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Themen reichen in den Bildern von Frida Kahlo von?",
+        "answers": [
+          "Liebe und Tod",
+          "Krankheit und politische Unruhe",
+          "Politische Unruhe und Liebe"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 21,
+    "article": "Die Malerin Frida Kahlo hat eine außergewöhnliche Künstlerin gewesen. Ihre Bilder zeigen die Schwere ihrer Krankheit und den Schmerz in ihrem Leben. Trotzdem hat sie ihre Leidenschaft für das Malen nie aufgegeben. Sie hat ihre Bilder mit Symbolen und metaphern gefüllt, um ihre Gefühle auszudrücken. Daher sind ihre Werke sehr einzigartig und beinhalten viele tiefe Bedeutungen.",
+    "questions": [
+      {
+        "question": "In welchem Bereich hat Frida Kahlo ihre Leidenschaft nicht aufgegeben?",
+        "answers": [
+          "Musik",
+          "Malerei",
+          "Literatur"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Art von Symbolen und Metaphern verwendet Frida Kahlo in ihren Bildern?",
+        "answers": [
+          "Allegorische",
+          "Mythische",
+          "Symbolischen"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Warum sind die Bilder von Frida Kahlo so einzigartig?",
+        "answers": [
+          "Weil sie viele Farben verwendet",
+          "Weil sie viele tiefe Bedeutungen enthalten",
+          "Weil sie viele Figuren darstellen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 22,
+    "article": "Die Malerei des Impressionismus hat eine Vielzahl von Künstlern hervorgebracht, die sich durch ihre außergewöhnliche Fähigkeit zum Beispiel Claude Monet und Pierre-Auguste Renoir auszeichneten. Der bekannteste Vertreter dieser Kunstrichtung ist jedoch Vincent van Gogh, dessen Werke in den Jahren 1888 bis 1890 entstanden sind. Seine Bilder zeichnen sich durch ihre warme Farbgebung und expressive Pinseltechnik aus.",
+    "questions": [
+      {
+        "question": "Welcher Künstler war bekannt für seine warme Farbgebung und expressive Pinseltechnik?",
+        "answers": [
+          "Claude Monet",
+          "Pierre-Auguste Renoir",
+          "Vincent van Gogh"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "In welchem Jahrhundert entstanden die Werke von Vincent van Gogh?",
+        "answers": [
+          "19. Jahrhundert",
+          "20. Jahrhundert",
+          "18. Jahrhundert"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche beiden Künstler werden als Vertreter des Impressionismus genannt?",
+        "answers": [
+          "Claude Monet und Vincent van Gogh",
+          "Pierre-Auguste Renoir und Claude Monet",
+          "Vincent van Gogh und Pierre-Auguste Renoir"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  }
+]

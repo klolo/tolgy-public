@@ -1,0 +1,851 @@
+[
+  {
+    "id": 0,
+    "article": "Die Bergstraße in Italien ist ein Paradies für Wanderer und Radfahrer. Sie verläuft von der Po-Ebene bis zum Comer See und bietet dabei atemberaubende Ausblicke auf die umliegenden Berge und Seen. Die Straße ist 190 km lang und führt durch verschiedene Regionen Italiens, wie die Lombardei, die Po-Ebene und den Comer See-Gebiet. Es gibt viele Möglichkeiten zum Anhalten und zu genießen, sei es am Strand des Comer Sees oder in einem der vielen Dörfer entlang der Straße.",
+    "questions": [
+      {
+        "question": "Wie lange ist die Bergstraße in Italien?",
+        "answers": [
+          "100 km",
+          "150 km",
+          "190 km"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Worin verläuft die Bergstraße in Italien?",
+        "answers": [
+          "Nur in der Po-Ebene",
+          "Vom Comer See bis zur Adria",
+          "Von der Po-Ebene zum Comer See"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Was gibt es entlang der Bergstraße in Italien?",
+        "answers": [
+          "Nur Dörfer",
+          "Nur Seen",
+          "Möglichkeiten zum Anhalten und zu genießen"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 1,
+    "article": "Die UNESCO-Weltkulturerbe-Stätten sind ein wichtiger Teil des Tourismus in Deutschland. Ein solches Beispiel ist die Altstadt von Lübeck, die im Jahr 1987 als erster deutschen Stadt in die Liste der Weltkulturerben aufgenommen wurde. Ihre mittelalterlichen Straßen und Häuser sind einzigartig und bieten einen Blick in das Leben der Hansezeit. Besucher können die gotischen Kirchen, wie die Marienkirche oder die St.-Annen-Kirche, besuchen und die berühmte Lübecker Spezialität, den Lübeckischen Marzipan, probieren.",
+    "questions": [
+      {
+        "question": "Wo wurde die Altstadt von Lübeck im Jahr 1987 aufgenommen?",
+        "answers": [
+          "Liste der UNESCO-Weltkulturerben",
+          "Liste der deutschen Städte",
+          "Liste der Weltkulturdenkmäler"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welches ist ein besonderes Angebot in Lübeck?",
+        "answers": [
+          "Lübeckische Marzipan",
+          "Hansezeit-Kostüme",
+          "Götisches Kirchengebäude"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wann wurde die Altstadt von Lübeck in die Liste der Weltkulturerben aufgenommen?",
+        "answers": [
+          "1985",
+          "1987",
+          "1990"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 2,
+    "article": "Die älteste Eisenbahn Deutschlands ist die Berliner Hochbahn. Sie wurde 1902 eröffnet und verbindet das Zentrum Berlins mit den östlichen Stadtteilen. Die Strecke ist etwa 6,5 Kilometer lang und wird von 18 Stationen bedient. Jährlich fahren über 100 Millionen Reisende mit der Berliner Hochbahn.",
+    "questions": [
+      {
+        "question": "Wann wurde die Berliner Hochbahn eröffnet?",
+        "answers": [
+          "1901",
+          "1902",
+          "1903"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Kilometer lang ist die Strecke der Berliner Hochbahn?",
+        "answers": [
+          "6",
+          "6.5",
+          "7"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viel Millionen Reisende fahren jährlich mit der Berliner Hochbahn?",
+        "answers": [
+          "50",
+          "100",
+          "150"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 3,
+    "article": "Die meisten Menschen kennen das berühmte Taj Mahal in Indien, aber weniger wissen, dass es ein weiteres Wunder des indischen Subkontinents gibt: die Höhlen von Ajanta und Ellora. Diese Felsenhöhlen befinden sich etwa 300 Kilometer östlich von Mumbai und sind über 2.000 Jahre alt. Sie enthalten eine Vielzahl an Buddha-Reliefs und -Skulpturen, die von buddhistischen Mönchen geschaffen wurden.",
+    "questions": [
+      {
+        "question": "Wo befinden sich die Felsenhöhlen von Ajanta und Ellora?",
+        "answers": [
+          "In Mumbai",
+          "Etwa 300 Kilometer östlich von Mumbai",
+          "In Delhi"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie alt sind die Felsenhöhlen von Ajanta und Ellora?",
+        "answers": [
+          "500 Jahre",
+          "Über 2.000 Jahre",
+          "1000 Jahre"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wer schuf die Buddha-Reliefs und -Skulpturen in den Felsenhöhlen?",
+        "answers": [
+          "Buddhistische Frauen",
+          "Buddhistische Mönche",
+          "Indische Könige"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 4,
+    "article": "Der Berliner Zoo ist eines der bekanntesten und beliebtesten Zoos Deutschlands. Er wurde 1844 gegründet und beherbergt heute über 1.500 Tiere aus aller Welt. Ein besonderes Highlight ist die riesige Afrikasavanne, in der man Löwen, Giraffen und Elefanten hautnah erleben kann. Der Zoo bietet auch regelmäßig geführte Touren und Workshops für Kinder, um sie an die Natur zu bringen.",
+    "questions": [
+      {
+        "question": "In welchem Jahr wurde der Berliner Zoo gegründet?",
+        "answers": [
+          "1842",
+          "1854",
+          "1861"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viele Tiere beherbergt der Berliner Zoo heute?",
+        "answers": [
+          "500",
+          "1500",
+          "2000"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was ist ein Highlight im Berliner Zoo?",
+        "answers": [
+          "Die riesige Asiensavanne",
+          "Die riesige Afrikasavanne",
+          "Der große Aquarium"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 5,
+    "article": "Die alten Handelsstraßen Europas sind eine wahre Entdeckung für Reisende, die nach authentischen Erlebnissen suchen. Die Römerstraße, die von Britannien bis nach Spanien führt, ist eine der bekanntesten und beeindruckendsten Strecken. Sie wurde im 1. Jahrhundert v.Chr. erbaut und war ein wichtiger Verkehrsweg für den Handel zwischen Europa und Asien. Heute können Touristen noch die Reste dieser antiken Straße besuchen und sich vorstellen, wie die römischen Kaufleute und Soldaten auf diesem Weg zogen.",
+    "questions": [
+      {
+        "question": "Wann wurde die Römerstraße erbaut?",
+        "answers": [
+          "1. Jahrhundert v.Chr.",
+          "2. Jahrhundert n.Chr.",
+          "3. Jahrhundert v.Chr."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welches war ein wichtiger Zweck der Römerstraße?",
+        "answers": [
+          "Der Bau von Bauten",
+          "Der Handel zwischen Europa und Asien",
+          "Die Verwaltung des Staates"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was können heute Touristen auf dieser antiken Straße tun?",
+        "answers": [
+          "Sie können die Straße nicht mehr besuchen",
+          "Sie können sich vorstellen, wie die römischen Kaufleute und Soldaten auf diesem Weg zogen",
+          "Sie können die Reste der Straße nicht sehen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 6,
+    "article": "Das Deutsche Museum in München ist ein unverzichtbarer Besuch für alle Reisenden, die nach Deutschland kommen. Das Museum zeigt eine Vielzahl an Ausstellungen und Exponaten aus den Bereichen Technik, Wissenschaft und Kultur. Eine der bekanntesten Attraktionen ist das Flugzeug von Ludwig Prandtl, einem Pionier der Luftfahrt.",
+    "questions": [
+      {
+        "question": "In welchen Bereichen zeigt das Deutsche Museum in München Ausstellungen?",
+        "answers": [
+          "Nur Technik",
+          "Nur Wissenschaft",
+          "Technik, Wissenschaft und Kultur"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wer ist der Pionier der Luftfahrt, dessen Flugzeug im Deutschen Museum in München zu sehen ist?",
+        "answers": [
+          "Ludwig Prandtl",
+          "Werner von Braun",
+          "Albert Einstein"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welcher Besuch ist für Reisende nach Deutschland unverzichtbar?",
+        "answers": [
+          "Ein Besuch in einem Berliner Museum",
+          "Ein Besuch in einem Münchner Restaurant",
+          "Ein Besuch im Deutschen Museum in München"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 7,
+    "article": "Die UNESCO-Welterbestätte von Pompeji ist ein beeindruckendes Beispiel für antike Architektur und Kultur. Die Stadt wurde 79 n.Chr. durch den Ausbruch des Vesuv entdeckt und begrub. Heute kann man die Ruinen besuchen und sich vorstellen, wie das Leben in Pompeji damals aussah. Der Hauptmarkt, der Tempel von Apollo und die Villa dei Misteri sind einige der bekanntesten Sehenswürdigkeiten dieser Stadt.",
+    "questions": [
+      {
+        "question": "Wann wurde Pompeji entdeckt?",
+        "answers": [
+          "79 n.Chr.",
+          "69 n.Chr.",
+          "49 n.Chr."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welcher Tempel ist in Pompeji bekannt?",
+        "answers": [
+          "Tempel von Mars",
+          "Tempel von Apollo",
+          "Tempel von Venus"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür ist der Hauptmarkt in Pompeji bekannt?",
+        "answers": [
+          "Hauptmarkt der Stadt",
+          "Markt für antike Kunstwerke",
+          "Handelsplatz für Getreide"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 8,
+    "article": "Die Malereien von Claude Monet in der Marmottan-Museum in Paris sind ein absolutes Highlight für every art lover und Reisender. Das Museum ist bekannt für seine umfangreiche Sammlung von Werken des französischen Impressionisten, darunter auch sein berühmtes Bild \"Impression, Sunrise\". Ein Besuch lohnt sich allemal, da man nicht nur die Kunstwerke bewundern kann, sondern auch einen wunderschönen Garten und eine beeindruckende Architektur erleben kann.",
+    "questions": [
+      {
+        "question": "In welchem Museum befinden sich die Malereien von Claude Monet?",
+        "answers": [
+          "Louvre",
+          "Orsay",
+          "Marmottan"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Welches ist ein berühmtes Bild von Claude Monet?",
+        "answers": [
+          "Stella du Nord",
+          "Impression, Sonnenaufgang",
+          "Der Garten des Marmottan-Museums"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum lohnt sich ein Besuch im Marmottan-Museum?",
+        "answers": [
+          "Nur für Kunstliebhaber",
+          "Weil man die Architektur bewundern kann",
+          "Weil man den Garten und die Kunstwerke erleben kann"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 9,
+    "article": "Das neue UNESCO-Weltkulturerbe in Peru ist ein absolutes Muss für jeden Reisenden. Die archäologische Stätte von Chan-Chan war über 5.000 Jahre lang die Hauptstadt des Reiches der Chimú. Heute kann man noch Reste der Stadtmauer, Paläste und Tempel besichtigen. Ein Besuch lohnt sich auf jeden Fall, da diese Stätte einzigartige Aussichten auf das Meer bietet.",
+    "questions": [
+      {
+        "question": "In welchem Jahr lang war die archäologische Stätte von Chan-Chan Hauptstadt des Reiches der Chimú?",
+        "answers": [
+          "500 Jahre",
+          "5.000 Jahre",
+          "10.000 Jahre"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was bietet ein Besuch der Stätte von Chan-Chan?",
+        "answers": [
+          "Einzigartige Aussichten auf das Meer",
+          "Eine Stadtmauer",
+          "Paläste und Tempel"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Reste kann man in Chan-Chan heute noch besichtigen?",
+        "answers": [
+          "Reste der Paläste",
+          "Stadtmauer, Paläste und Tempel",
+          "Tempel"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 10,
+    "article": "Die Deutsche Bahn bietet eine umfassende Auswahl an Reisezielen in Europa und darüber hinaus. Ein besonderes Highlight ist die Verbindung nach Island. Die Fähre legt in den Hafen von Kiel ab und bringt dich nach Reykjavik, der Hauptstadt Islands. Dort kannst du die unique Landschaft und Natur erleben.",
+    "questions": [
+      {
+        "question": "Wohin fährt die Fähre von Kiel ab?",
+        "answers": [
+          "Nordkap",
+          "Reykjavik",
+          "Hamburg"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo ankommst du, wenn du mit der Fähre von Kiel kommst?",
+        "answers": [
+          "Kopenhagen",
+          "Reykjavik",
+          "Berlin"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was kannst du in Reykjavik erleben?",
+        "answers": [
+          "Die Natur",
+          "Das Meer",
+          "Die Stadt"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 11,
+    "article": "Die Deutsche Bahn betreibt eines der modernsten Eisenbahnnetze der Welt. Seit 1848 existiert die Gesellschaft und hat sich in den vergangenen Jahrzehnten kontinuierlich entwickelt. Heute können Reisende mit einer Vielzahl an Zügen und Fernbahnen deutschlandweit reisen. Das Netzwerk umfasst über 36.000 Kilometer Strecken und ist eines der größten seiner Art in Europa.",
+    "questions": [
+      {
+        "question": "Wie lange existiert die Deutsche Bahn?",
+        "answers": [
+          "18 Jahrzehnte",
+          "18 Jahre",
+          "1848"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wie viele Kilometer umfasst das Netzwerk der Deutschen Bahn?",
+        "answers": [
+          "10.000 Kilometer",
+          "36.000 Kilometer",
+          "100.000 Kilometer"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wohin können Reisende mit einer Vielzahl an Zügen und Fernbahnen reisen?",
+        "answers": [
+          "nur in Europa",
+          "nur in Deutschland",
+          "deutschlandweit"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 12,
+    "article": "Die malaysische Insel Langkawi wird von Reisenden gerne besucht, da sie eine Vielzahl an interessanten Sehenswürdigkeiten bietet. Die Insel ist Teil des Straits of Malakka und liegt nordöstlich von Malaysia. Sie ist bekannt für ihre 99 Schlangeninseln, die jedoch nicht von Schlangen bewohnt sind, sondern aufgrund ihrer Form so heißen. Langkawi hat eine Vielzahl an Naturschönheiten wie Wasserfälle, Strände und Wälder. Die Insel ist auch ein beliebtes Ziel für Taucher, da sie viele Korallenriffe und Fische beherbergt.",
+    "questions": [
+      {
+        "question": "Wo liegt Langkawi?",
+        "answers": [
+          "Südwesten Malaysias",
+          "Nordosten Malaysias",
+          "Zentrum Malaysias"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür sind die Schlangeninseln bekannt?",
+        "answers": [
+          "Weil sie von Schlangen bewohnt sind",
+          "Weil sie aufgrund ihrer Form so heißen",
+          "Weil sie eine Vielzahl an Korallenriffen beherbergen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wieso ist Langkawi ein beliebtes Ziel für Taucher?",
+        "answers": [
+          "Weil es viele Wasserfälle gibt",
+          "Weil es viele Korallenriffe und Fische beherbergt",
+          "Weil es eine Vielzahl an Stränden hat"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 13,
+    "article": "Die älteste Erwähnung des Schlosses Neuschwanstein in Bayern datiert auf das Jahr 1832. Das Bauwerk wurde vom bayerischen König Ludwig II. in Auftrag gegeben und war ein Teil seines Traums von einer idealen mittelalterlichen Burg. Nach dessen Tod im Jahr 1886 wurde das Schloss fertiggestellt und heute ist es eines der bekanntesten Touristenziele Deutschlands.",
+    "questions": [
+      {
+        "question": "Wer gab den Auftrag zum Bau des Schlosses Neuschwanstein?",
+        "answers": [
+          "Österreichische Kaiserin",
+          "Bayerischer König Ludwig II.",
+          "Deutsche Architekt"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wann wurde das Schloss Neuschwanstein fertiggestellt?",
+        "answers": [
+          "1832",
+          "1866",
+          "1886"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Warum wurde das Schloss Neuschwanstein gebaut?",
+        "answers": [
+          "Als Sommerresidenz für den bayerischen König",
+          "Als ideal mittelalterliche Burg nach dem Traum von König Ludwig II.",
+          "Als symbolischer Bauwerk für die Stadt München"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 14,
+    "article": "Die Straße von Gibraltar ist ein wahrer Klassiker der Reiseziele in Europa. Sie verbindet Spanien mit Marokko und erstreckt sich über etwa 15 Kilometer. Die Fahrt kann bis zu 45 Minuten dauern, je nach Verkehrslage. Die Straße wurde 1935 eröffnet und war ein bedeutender Schritt für die wirtschaftliche Entwicklung der Region. Heute ist sie ein wichtiger Handelsweg zwischen Europa und Afrika.",
+    "questions": [
+      {
+        "question": "Wann wurde die Straße von Gibraltar eröffnet?",
+        "answers": [
+          "1932",
+          "1935",
+          "1945"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie lange kann die Fahrt über die Straße von Gibraltar dauern?",
+        "answers": [
+          "15 Minuten",
+          "45 Minuten",
+          "60 Minuten"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür war die Eröffnung der Straße von Gibraltar ein wichtiger Schritt?",
+        "answers": [
+          "für den Kriegseintritt Spaniens",
+          "für die wirtschaftliche Entwicklung der Region",
+          "für den Bau eines neuen Hafens"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 15,
+    "article": "Die Stadt Paris ist bekannt für ihre beeindruckenden Sehenswürdigkeiten wie die Eiffelturm und den Louvre. Doch nur wenige wissen, dass der berühmte Canal Saint-Martin eine lange Geschichte hat. Er wurde im 17. Jahrhundert erbaut und war ein wichtiger Handelsweg für die Stadt. Heute ist er ein beliebtes Ausflugsziel für Touristen und Einheimische gleichermaßen.",
+    "questions": [
+      {
+        "question": "In welchem Jahrhundert wurde der Canal Saint-Martin erbaut?",
+        "answers": [
+          "17. Jahrhundert",
+          "18. Jahrhundert",
+          "19. Jahrhundert"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wofür war der Canal Saint-Martin ein wichtiger Weg für die Stadt?",
+        "answers": [
+          "für den Tourismus",
+          "für den Handel",
+          "für die Verkehrsanbindung"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wer besucht heute den Canal Saint-Martin",
+        "answers": [
+          "nur Touristen",
+          "nur Einheimische",
+          "Touristen und Einheimische gleichermaßen"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 16,
+    "article": "Die UNESCO-Weltkulturerbe-Siedlung von Bagan in Myanmar ist ein touristischer Hingucker. Mit über 2.000 Tempeln und Pagoden aus dem 11. bis 13. Jahrhundert ist es eines der größten und bedeutendsten archäologischen Stätten des Landes. Durch die ruhige Atmosphäre und den goldenen Sonnenaufgang kann man sich hier vollkommen entspannen.",
+    "questions": [
+      {
+        "question": "Wo liegt die UNESCO-Weltkulturerbe-Siedlung von Bagan?",
+        "answers": [
+          "Myanmar",
+          "Thailand",
+          "Kambodscha"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viele Tempel und Pagoden gibt es in Bagan?",
+        "answers": [
+          "500",
+          "2.000",
+          "1.000"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wozu ist die Atmosphäre in Bagan geeignet?",
+        "answers": [
+          "För Wanderungen",
+          "Für entspannende Erholung",
+          "Für Sportaktivitäten"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 17,
+    "article": "Das Wunder von Angkor Wat ist ein archäologisches Rätsel, das viele Jahre lang die Forscher beschäftigt hat. Der Tempelkomplex in Kambodscha besteht aus über 1.000 Strukturen, darunter auch dem berühmten Tor des Sonnenaufgangs. Die Bauarbeiten begannen im 12. Jahrhundert und dauerten mehrere Jahre lang an. Heute ist Angkor Wat eines der bekanntesten Touristenziele Asiens.",
+    "questions": [
+      {
+        "question": "Wo liegt der Tempelkomplex Angkor Wat?",
+        "answers": [
+          "Indien",
+          "Kambodscha",
+          "Thailand"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie lange dauerten die Bauarbeiten am Angkor Wat?",
+        "answers": [
+          "Ein Jahr",
+          "Mehrere Jahre",
+          "Unendlich"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür ist Angkor Wat heute bekannt?",
+        "answers": [
+          "Für seine archäologischen Funde",
+          "Als eines der bekanntesten Touristenziele Asiens",
+          "Für seine Kulturwerte"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 18,
+    "article": "Die UNESCO-Welterbestätte Angkor Wat in Kambodscha ist ein touristischer Hauptziel. Über 1.000 Jahre alt ist diese bemerkenswerte Stadt aus Felsen und Stein. Insgesamt gibt es mehr als 3.000 Tempel, darunter der berühmteste Tempel Wat Phrae Vihara. Die Skulpturen und Reliefs dieser Tempel sind einzigartig und zeugen von der Blüte des Khmer-Königreichs. Jährlich besuchen Millionen von Touristen diese beeindruckende Stätte.",
+    "questions": [
+      {
+        "question": "Wie viele Jahre alt ist die bemerkenswerte Stadt aus Felsen und Stein?",
+        "answers": [
+          "100 Jahre",
+          "1.000 Jahre",
+          "500 Jahre"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Tempel gibt es insgesamt in Angkor Wat?",
+        "answers": [
+          "1000 Tempel",
+          "3000 Tempel",
+          "2000 Tempel"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welcher Tempel ist der berühmteste Tempel von Angkor Wat?",
+        "answers": [
+          "Wat Phrae Vihara",
+          "Angkor Wat",
+          "Tempel des Königreichs"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 19,
+    "article": "Die bekannteste Sehenswürdigkeit in Bangkok ist der Große Palast, der ehemalige Wohnsitz des thailändischen Königs. Der Palast besteht aus mehreren Gebäuden und Gärten und bietet einen atemberaubenden Blick auf die Stadt. Ein Besuch im Palast kostet etwa 500 Baht pro Person, was etwa 12 Euro entspricht.",
+    "questions": [
+      {
+        "question": "Wie viel kostet ein Besuch im Großen Palast?",
+        "answers": [
+          "200 Baht",
+          "500 Baht",
+          "1000 Baht"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was bietet der Große Palast einem Besucher?",
+        "answers": [
+          "Ein atemberaubenden Blick auf die Stadt",
+          "Eine Tour durch den Palast",
+          "Eine Fahrt durch Bangkok"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "In welchem Land befindet sich der Große Palast?",
+        "answers": [
+          "Thailand",
+          "China",
+          "Japan"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 20,
+    "article": "Das Schönste an Italien ist die Vielfalt seiner Regionen. Im Norden liegt die Lombardei, ein Paradies für Einkaufsliebhaber. Die Stadt Mailand ist bekannt für ihre Modehäuser und den berühmten La Scala. Im Süden findet man die Amalfiküste, eine Traumstraße mit bizarren Felsformationen und blauem Meer. Der Vatikan ist ein Muss für every Pilger.",
+    "questions": [
+      {
+        "question": "Wo liegt die Lombardei?",
+        "answers": [
+          "Norden Italiens",
+          "Süden Italiens",
+          "Mitte Italiens"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Stadt in Italien ist bekannt für ihre Modehäuser?",
+        "answers": [
+          "Rom",
+          "Mailand",
+          "Florenz"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo findet man bizarre Felsformationen und blaues Meer?",
+        "answers": [
+          "Amalfiküste",
+          "Lombardei",
+          "Vatikan"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 21,
+    "article": "Die Mauer des Chinesischen Theaters in Peking ist ein bekanntes Sehenswürdigkeit für Touristen. Sie wurde im 18. Jahrhundert errichtet und ist 43 Meter hoch. Der Bau ist aus Ziegeln und Stein gefertigt und zeigt eine bemerkenswerte Architektur. Es gibt auch einen riesigen Pagoden auf dem Dach, die den Blick in die Ferne erweitert. Jährlich besuchen Millionen Menschen diese Sehenswürdigkeit.",
+    "questions": [
+      {
+        "question": "In welchem Jahrhundert wurde die Mauer des Chinesischen Theaters in Peking errichtet?",
+        "answers": [
+          "17. Jahrhundert",
+          "18. Jahrhundert",
+          "19. Jahrhundert"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie hoch ist die Mauer des Chinesischen Theaters in Peking?",
+        "answers": [
+          "30 Meter",
+          "43 Meter",
+          "50 Meter"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welches Material wurde verwendet, um den Bau der Mauer des Chinesischen Theaters in Peking zu erstellen?",
+        "answers": [
+          "Ziegeln und Holz",
+          "Ziegeln und Stein",
+          "Stein und Beton"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 22,
+    "article": "Die Alhambra in Granada ist eines der bekanntesten Bauwerke Spaniens und eine Hauptattraktion für Touristen. Das Komplex aus Palast, Garten und Kirche wurde im 14. Jahrhundert unter der Herrschaft des Nasriden-Sultans Muhammad V. errichtet. Die Architektur ist ein perfektes Beispiel für die Mischung von arabischen und andaluisischen Stilen. Jährlich besuchen mehr als 2 Millionen Menschen die Alhambra, um sich von der Schönheit dieser Anlage zu überzeugen.",
+    "questions": [
+      {
+        "question": "In welchem Jahrhundert wurde die Alhambra errichtet?",
+        "answers": [
+          "13. Jahrhundert",
+          "14. Jahrhundert",
+          "15. Jahrhundert"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wer ließ die Alhambra unter seiner Herrschaft errichten?",
+        "answers": [
+          "Ferdinand und Isabella",
+          "Muhammad V.",
+          "König Carlos III."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Menschen besuchen die Alhambra jährlich?",
+        "answers": [
+          "100.000",
+          "2 Millionen",
+          "5 Millionen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  },
+  {
+    "id": 23,
+    "article": "Die Stadt Paris gilt als eine der schönsten Städte der Welt und wird jährlich von Millionen von Touristen besucht. Einige der bekanntesten Sehenswürdigkeiten sind das Eiffelturm, die Kathedrale Notre-Dame und das Louvre-Museum. Im Jahr 2019 erreichte Paris über 23 Millionen Besucher. Es gibt viele Gründe, warum Paris so beliebt ist: seine romantische Atmosphäre, seine Kunst, seine Architektur und sein kulinarisches Angebot.",
+    "questions": [
+      {
+        "question": "Wann erreichte Paris über 23 Millionen Besucher?",
+        "answers": [
+          "Im Jahr 2018",
+          "Im Jahr 2019",
+          "Im Jahr 2020"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum ist Paris so beliebt?",
+        "answers": [
+          "Nur aufgrund seiner Architektur",
+          "Aufgrund seiner romantischen Atmosphäre, seiner Kunst, seiner Architektur und seines kulinarischen Angebots",
+          "Weil es die schönste Stadt der Welt ist"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Sehenswürdigkeiten gibt es in Paris?",
+        "answers": [
+          "Eine",
+          "Drei",
+          "Keine"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "B2"
+  }
+]{
+  "id": 24,
+  "article": "Die UNESCO-Weltkulturerbe-Liste umfasst weltweit mehr als 1.000 Orte, die aufgrund ihrer außergewöhnlichen kulturellen oder natürlichen Bedeutung geschützt werden. Ein solch wichtiger Ort ist die Kathedrale von Notre-Dame in Paris, Frankreich. Sie wurde im 12. Jahrhundert erbaut und ist ein Symbol der französischen Architektur.",
+  "questions": [
+    {
+      "question": "Wo wurde die Kathedrale von Notre-Dame erbaut?",
+      "answers": [
+        "Paris, Frankreich",
+        "Rom, Italien",
+        "London, England"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "In welchem Jahrhundert wurde die Kathedrale von Notre-Dame erbaut?",
+      "answers": [
+        "10. Jahrhundert",
+        "12. Jahrhundert",
+        "15. Jahrhundert"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Warum ist die Kathedrale von Notre-Dame ein wichtiger Ort?",
+      "answers": [
+        "Sie ist ein Symbol der französischen Architektur",
+        "Sie ist ein wichtiger Platz für Touristen",
+        "Sie ist ein geschütztes Naturdenkmal"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "languageLevel": "B2"
+},

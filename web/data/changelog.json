@@ -1,0 +1,19 @@
+{
+  "currentVersion": "0.0.1",
+  "history": [
+    {
+      "version": "0.0.1",
+      "date": "2021-10-10",
+      "description": {
+        "ENGLISH": "First public version of the application 😱",
+        "GERMAN": "Erste öffentliche Version der Anwendung 😱",
+        "SPANISH": "Primera versión pública de la aplicación 😱",
+        "FRENCH": "Première version publique de l'application 😱",
+        "ITALIAN": "Prima versione pubblica dell'applicazione 😱",
+        "NORWEGIAN": "Første offentlige versjon av applikasjonen 😱",
+        "POLISH": "Pierwsza publiczna wersja aplikacji 😱",
+        "RUSSIAN": "Первая публичная версия приложения 😱"
+      }
+    }
+  ]
+}

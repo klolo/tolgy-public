@@ -1,0 +1,855 @@
+[
+  {
+    "id": 0,
+    "article": "Die Entdeckung des Schatzes von Sutton Hoo war ein bedeutender Moment in der Geschichte Englands. Im Jahr 1939 gruben Archäologen auf dem Friedhof von Sutton Hoo nach einem Grabmal für den angelsächsischen König Rædwald, als sie plötzlich einen goldenen Helm fanden. Der Helm gehörte einem Krieger des 7. Jahrhunderts und war einzigartig in seiner Art. Die Entdeckung des Helmes revolutionierte unser Verständnis der angelsächsischen Kultur und ihre Beziehungen zu anderen europäischen Zivilisationen.",
+    "questions": [
+      {
+        "question": "Wo fanden Archäologen im Jahr 1939 ein bedeutendes Grabmal?",
+        "answers": [
+          "Sutton Hoo",
+          "London",
+          "Paris"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wem gehörte der gefundene goldene Helm?",
+        "answers": [
+          "Rædwald",
+          "Krieger des 7. Jahrhunderts",
+          "Angesächsischer König"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welches war das Ergebnis der Entdeckung des goldenen Helmes?",
+        "answers": [
+          "Ein Verlust für die angelsächsische Kultur",
+          "Eine Revolutionierung unseres Verständnisses der angelsächsischen Kultur",
+          "Ein neuer Trend in Archäologie"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 1,
+    "article": "Die Entdeckung des Tutenkhamunschen Grabes im Jahr 1922 war ein bedeutender Schritt in der Geschichte der Ägyptologie. Der britische Archäologe Howard Carter und sein Sponsor George Herbert, 5. Earl of Carnarvon, entdeckten das Grab nach langen Jahren der Suche. Die Ausgrabung des Grabes führte zu einer Reihe von Entdeckungen, darunter die des goldenen Sarges und des Totentisches Tutenkhamuns.",
+    "questions": [
+      {
+        "question": "Wer war der britische Archäologe, der das Grab Tutenkhamuns entdeckte?",
+        "answers": [
+          "Howard Carter",
+          "George Herbert",
+          "Ramses II"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wem gehörte George Herbert, der Sponsor von Howard Carter?",
+        "answers": [
+          "5. Earl of Carnarvon",
+          "6. Earl of Carnarvon",
+          "7. Earl of Carnarvon"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was führte zu einer Reihe von Entdeckungen während der Ausgrabung des Grabes?",
+        "answers": [
+          "Die Entdeckung eines goldenen Sarges",
+          "Die Entdeckung des Totentisches Tutenkhamuns",
+          "Die lange Suche nach dem Grab"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 2,
+    "article": "Die ältesten Schriftrelikte der Maya-Zivilisation datieren auf das Jahr 200 v. Chr. back, als die ersten Mesoamerikaner in Guatemala und Mexiko siedelten. Die Maya entwickelten ein komplexes System von astronomischen Beobachtungen und Kalendern, das bis heute erhalten geblieben ist. Ihre Schriften enthielten auch wichtige Informationen über ihre Religion, Politik und Wirtschaft.",
+    "questions": [
+      {
+        "question": "Wann datieren die ältesten Schriftrelikte der Maya-Zivilisation?",
+        "answers": [
+          "200 v. Chr.",
+          "1500 n. Chr.",
+          "3000 v. Chr."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wo siedelten die ersten Mesoamerikaner?",
+        "answers": [
+          "Guatemala und Mexiko",
+          "Peru und Chile",
+          "USA und Kanada"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wofür enthielten die Schriften der Maya?",
+        "answers": [
+          "Nur über ihre Astronomie",
+          "Über ihre Religion, Politik und Wirtschaft",
+          "Nur über ihre Wirtschaft"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 3,
+    "article": "Die Entdeckung des Titanic-Wracks war ein Meilenstein in der Geschichte des Unterwasser-Archäologen. Im Jahr 1985 gelang es einem Team von Forschern unter der Leitung von Robert Ballard, das Wrack des legendären Passagierschiffes zu lokalisieren und zu fotografieren. Die Bilder, die aus dem kalten Wasser auf die Oberfläche projiziert wurden, zeigten ein beeindruckendes Bild des Schiffes in seinem letzten Zustand vor der Katastrophe im Jahr 1912.",
+    "questions": [
+      {
+        "question": "Wer führte das Team der Forscher, die das Wrack des Titanic-Schiffes lokalisieren und fotografieren konnten?",
+        "answers": [
+          "Robert Ballard",
+          "Ferdinand Magellan",
+          "Jules Verne"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "In welchem Jahr gelang es den Forschern, das Wrack des Titanic-Schiffes zu lokalisieren und zu fotografieren?",
+        "answers": [
+          "1912",
+          "1985",
+          "1999"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo wurden die Bilder des Schiffes aufgenommen, die aus dem kalten Wasser auf die Oberfläche projiziert wurden?",
+        "answers": [
+          "Im Inneren des Schiffs",
+          "Auf der Oberfläche des Meeres",
+          "In einem Labor"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 4,
+    "article": "Die Entdeckung des Rosetta-Stones war ein Meilenstein in der Geschichte der Archäologie. Der Stein wurde 1799 von Franzosen in Ägypten entdeckt und enthält eine Inschrift, die aus drei verschiedenen Sprachen besteht: Hieroglyphen, Demotik und griechischer Koiné. Die Entschlüsselung dieser Inschrift ermöglichte es Forschern, die Bedeutung der Hieroglyphen zu verstehen und das altägyptische Alphabet zu dekodieren.",
+    "questions": [
+      {
+        "question": "In welchem Jahr wurde der Rosetta-Stone entdeckt?",
+        "answers": [
+          "1795",
+          "1799",
+          "1801"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Sprachen sind in der Inschrift des Rosetta-Stones vertreten?",
+        "answers": [
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was ermöglichte die Entschlüsselung der Inschrift des Rosetta-Stones?",
+        "answers": [
+          "Die Dekodierung des griechischen Alphabets",
+          "Das Verstehen der Bedeutung der Hieroglyphen",
+          "Die Entdeckung eines neuen altägyptischen Alphabets"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 5,
+    "article": "Die Entdeckung des Tombstone-Petroglyphen ist ein bedeutender Fund in der Geschichte Amerikas. Die Petroglyphen sind etwa 2.000 Jahre alt und zeigen eine Vielzahl von Tieren und Menschen. Sie wurden auf einer riesigen Steinplatte entdeckt, die sich in der Nähe eines alten Flusses befindet. Es wird angenommen, dass die Bilder von den ersten Bewohnern Amerikas stammen.",
+    "questions": [
+      {
+        "question": "Wo wurde die Petroglyphen-Steinplatte entdeckt?",
+        "answers": [
+          "In der Nähe eines alten Flusses",
+          "Auf einem Berg",
+          "Im Meer"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie alt sind die Petroglyphen?",
+        "answers": [
+          "1.000 Jahre",
+          "2.000 Jahre",
+          "3.000 Jahre"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wer könnte die Bilder auf den Petroglyphen gemalt haben?",
+        "answers": [
+          "Die ersten Bewohner Europas",
+          "Die ersten Bewohner Amerikas",
+          "Die ersten Bewohner Asiens"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 6,
+    "article": "Die älteste erhaltene Skulptur der Welt ist die Venus von Milo, eine griechische Statue aus dem 2. Jahrhundert v. Chr. Sie wurde um 130 v. Chr. in der griechischen Stadt Mykonos gefunden und zeigt die Göttin der Liebe, Aphrodite, in einer eleganten Haltung. Die Skulptur ist etwa 198 cm hoch und besteht aus weißem Marmor. Ihre Entstehung ist auf das Werk von Alexandros aus Argos zurückzuführen, einem berühmten griechischen Bildhauer seiner Zeit.",
+    "questions": [
+      {
+        "question": "Wo wurde die Venus von Milo gefunden?",
+        "answers": [
+          "Mykonos",
+          "Argos",
+          "Athen",
+          "Rzym"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Göttin wird in der Skulptur dargestellt?",
+        "answers": [
+          "Aphrodite",
+          "Artemis",
+          "Diana",
+          "Minerva"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie hoch ist die Skulptur?",
+        "answers": [
+          "150 cm",
+          "198 cm",
+          "250 cm",
+          "300 cm"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 7,
+    "article": "Die Entdeckung der Antarktis war ein wichtiger Meilenstein in der Geschichte des menschlichen Wissens. Im Jahr 1820 gelang James Clark Ross die Erkundung des Südpols, was den Weg frei machte für weitere Expeditionen nach diesem unbekannten Kontinent. Die britische Admiralität setzte daraufhin die Erebus und die Terror unter dem Kommando von Robert Falcon Scott in Bewegung, um die Antarktis zu erforschen. Ihre Reise dauerte fast zwei Jahre lang an und war ein großer Erfolg für die wissenschaftliche Gemeinschaft.",
+    "questions": [
+      {
+        "question": "Wer erkundete den Südpol im Jahr 1820?",
+        "answers": [
+          "James Clark Ross",
+          "Robert Falcon Scott",
+          "Ernst Reimer"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was machte die Erkundung des Südpols frei?",
+        "answers": [
+          "Den Weg für weitere Expeditionen nach Asien",
+          "Den Weg frei für weitere Expeditionen nach Antarktis",
+          "Das Ende der polaren Forschungen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wer kommandierte die Schiffe Erebus und Terror?",
+        "answers": [
+          "James Clark Ross",
+          "Robert Falcon Scott",
+          "Ernst Reimer"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 8,
+    "article": "Die Entdeckung der Schriftrolle von Qumran im Jahr 1947 revolutionierte unsere Kenntnis von der antiken Geschichte Israels. In einem Höhlensystem nahe dem Westufer des Toten Meers fanden Archäologen die verwitterten Pergamente, auf denen Texte in hebräischer und aramäischer Sprache eingesetzt waren. Diese Schriftrolle enthält Ausschnitte aus der Bibel, wie z.B. das Buch Jesaja, aber auch unkanonische Werke, wie die Apokalypse von Esdras. Die Entdeckung der Qumran-Rollen hat unsere Vorstellung davon geändert, wie die jüdische Literatur in der Antike entstand und verbreitet wurde.",
+    "questions": [
+      {
+        "question": "Wo fanden Archäologen die verwitterten Pergamente?",
+        "answers": [
+          "In einem Höhlensystem nahe dem Westufer des Toten Meers",
+          "In einer Bibliothek in Jerusalem",
+          "Auf einem antiken Marktplatz"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Sprachen sind auf den Schriftrollen eingesetzt?",
+        "answers": [
+          "Hebräisch und Latein",
+          "Hebräisch und Aramäisch",
+          "Griechisch und Römisch"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Apokalypse ist auf den Schriftrollen enthalten?",
+        "answers": [
+          "Apokalypse von Daniel",
+          "Apokalypse von Esdras",
+          "Apokalypse von Johannes"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 9,
+    "article": "Die Römer machten es sich zum Ziel, ein Imperium aufzubauen, das von Britannien bis Ägypten reichte. Ihr Militär war so stark, dass sie die Grenzen ihres Reiches erfolgreich verteidigen konnten. Ein wichtiger Faktor war auch ihre Ingenieurskunst, die ihnen ermöglichte, komplexe Infrastrukturen wie Straßen und Brücken zu errichten. Diese Errungenschaften blieben lange Zeit unübertroffen und beeinflussten das mittelalterliche Europa nachhaltig.",
+    "questions": [
+      {
+        "question": "Wo reichte das Imperium der Römer nach?",
+        "answers": [
+          "Nordafrika",
+          "Britannien bis Ägypten",
+          "Südamerika"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum war die Ingenieurskunst der Römer wichtig?",
+        "answers": [
+          "Sie konnten damit Kriege gewinnen.",
+          "Sie ermöglichte komplexe Infrastrukturen zu errichten.",
+          "Sie waren damit besser als andere Völker."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie beeinflussten die Errungenschaften der Römer das Europa?",
+        "answers": [
+          "Nicht aufhörbar",
+          "Nachhaltig",
+          "Waren sie bedeutungslos"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 10,
+    "article": "Die ältesten Überreste der römischen Militärstraße von Limes Germanicus wurden im Jahr 2007 bei Ausgrabungen in der Nähe von Xanten entdeckt. Diese 180 Kilometer lange Verbindung verband den Rhein mit dem Niederrhein und war ein wichtiger Abschnitt des römischen Reiches. Der Limes Germanicus wurde zwischen 13 v. Chr. und 47 n. Chr. errichtet, um die Grenze gegen germanische Stämme zu sichern. Durch die Ausgrabungen konnten Archäologen viele interessante Funde machen, wie zum Beispiel Münzen, Keramik und Waffen.",
+    "questions": [
+      {
+        "question": "Wo wurden die ältesten Überreste der römischen Militärstraße von Limes Germanicus entdeckt?",
+        "answers": [
+          "In der Nähe von Trier",
+          "In der Nähe von Xanten",
+          "In der Nähe von Köln"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie lang war die römische Militärstraße von Limes Germanicus?",
+        "answers": [
+          "100 Kilometer lang",
+          "180 Kilometer lang",
+          "200 Kilometer lang"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum wurde der Limes Germanicus errichtet?",
+        "answers": [
+          "Um die Grenze gegen andere römische Stämme zu sichern",
+          "Um die Grenze gegen germanische Stämme zu sichern",
+          "Um die Grenze gegen ausländische Stämme zu sichern"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 11,
+    "article": "Die ältesten Ausgrabungen auf der Insel Malta datieren aus der Zeit vor etwa 5900 Jahren. Diese Funde sind einzigartig, da sie die Geschichte des Menschen in dieser Region erhellern. Die Megalith-Bauten von Ggantija sind ein Beispiel dafür, wie sich die Menschen damals organisiert haben. Einige davon stammen aus dem Neolithikum und sind etwa 5.500 Jahre alt. Sie sind ein wichtiger Beweis für die Existenz einer komplexen Gesellschaft in der Vergangenheit.",
+    "questions": [
+      {
+        "question": "Wann datieren die ältesten Ausgrabungen auf der Insel Malta?",
+        "answers": [
+          "59.000 Jahre",
+          "5.500 Jahre",
+          " Vor etwa 59.000 Jahren"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wie alt sind einige Megalith-Bauten von Ggantija?",
+        "answers": [
+          "59.000 Jahre",
+          "5.500 Jahre",
+          " Jahrhunderte"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was sind die Megalith-Bauten von Ggantija ein Beweis für?",
+        "answers": [
+          "Für die Existenz einer primitiven Gesellschaft",
+          "Für die Existenz einer komplexen Gesellschaft",
+          "Für die Existenz eines Stammes"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 12,
+    "article": "Die Entdeckung der Antarktis ist ein bemerkenswerter Meilenstein in der Geschichte der Kartographie und Exploration. Der britische Seefahrer Edward Bransfield war der erste Europäer, der den Kontinent 1820 sichtete. Er entdeckte ihn während einer Reise an Bord des Schiffes Williams, das sich auf dem Weg nach Südamerika befand. Bransfield notierte die Entdeckung in seinem Tagebuch und beschrieb den Kontinent als \"einen riesigen Eisberg\".",
+    "questions": [
+      {
+        "question": "Wer war der erste Europäer, der den Antarktischen Kontinent sichtete?",
+        "answers": [
+          "James Cook",
+          "Edward Bransfield",
+          "Ferdinand Magellan"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo befand sich das Schiff, auf dem Edward Bransfield den Antarktischen Kontinent entdeckte?",
+        "answers": [
+          "Im Mittelmeer",
+          "Auf dem Weg nach Südamerika",
+          "In der Arktis"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie beschrieb Edward Bransfield den Antarktischen Kontinent in seinem Tagebuch?",
+        "answers": [
+          "Als einen kleinen Insel",
+          "Als einen riesigen Eisberg",
+          "Als einen tropischen Strand"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 13,
+    "article": "Die Römer baute während des 1. Jahrhunderts n. Chr. den Hadrianswall entlang der britischen Nordgrenze, um die Provinz Britannien gegen die Pictos und die Schotten zu schützen. Der Wall war etwa 117 Kilometer lang und verlief von Segedunum bei Wallsend an der Tyne-Mündung bis zum Lake Derwent in Cumbria. Er bestand aus Steinmauer, Holzzaun und Erdwällen. Die Bauarbeiten begannen um 122 n. Chr. unter Kaiser Hadrian persönlich.",
+    "questions": [
+      {
+        "question": "Wer begann die Bauarbeiten an dem Hadrianswall?",
+        "answers": [
+          "Kaiser Augustus",
+          "Kaiser Hadrian",
+          "Kaiser Nero"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür wurde der Hadrianswall gebaut?",
+        "answers": [
+          "Um die Provinz Britannien zu erweitern",
+          "Um die Provinz Britannien gegen die Pictos und Schotten zu schützen",
+          "Um den Handel in Britannien zu fördern"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Während welchem Jahrhundert wurde der Hadrianswall gebaut?",
+        "answers": [
+          "1. Jahrhundert v. Chr.",
+          "1. Jahrhundert n. Chr.",
+          "2. Jahrhundert n. Chr."
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 14,
+    "article": "Das Römische Reich unterhielt während seiner Blütezeit umfangreiche Handelsbeziehungen mit anderen Kulturen, insbesondere mit der griechischen Welt. Die römischen Kaufleute besuchten regelmäßig die Märkte von Alexandria und Ephesos, wo sie Edelmetalle, Luxusgüter und exotische Waren ankaufen konnten. Durch diese Handelsbeziehungen gelangte Römisches Geld auch in die griechische Welt, was zu einer vermehrten Kultur- und Technologieaustausch führte. Dieser Austausch trug entscheidend zur Entwicklung der römischen Gesellschaft bei.",
+    "questions": [
+      {
+        "question": "Wo besuchten römische Kaufleute regelmäßig die Märkte?",
+        "answers": [
+          "Alexandria",
+          "Ephesos",
+          "Rom"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Edelmetalle konnten römische Kaufleute in Alexandria und Ephesos ankaufen?",
+        "answers": [
+          "Gold",
+          "Silber",
+          "Platin",
+          "Edelsteine"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wodurch trug der Austausch zwischen Rom und Griechenland zur Entwicklung der römischen Gesellschaft bei?",
+        "answers": [
+          "Durch Krieg",
+          "Durch Handelsbeziehungen",
+          "Durch Religionsaustausch"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 15,
+    "article": "Die Erfindung des Computers geht auf Alan Turing zurück, einen britischen Mathematiker und Logikern, der sich in den 1940er Jahren mit künstlicher Intelligenz beschäftigte. Sein bekanntester Beitrag ist die Turing-Maschine, ein Konzept für einen universalen Rechner. Darüber hinaus leistete er auch wichtige Beiträge im Bereich der Kryptanalyse.",
+    "questions": [
+      {
+        "question": "Wer ist der britische Mathematiker und Logiker, der sich mit künstlicher Intelligenz beschäftigte?",
+        "answers": [
+          "Alan Turing",
+          "Marie Curie",
+          "Isaac Newton"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wofür ist Alan Turing bekanntester Beitrag?",
+        "answers": [
+          "Die Entdeckung des Atomkerns",
+          "Das Konzept für einen universalen Rechner",
+          "Die Erfindung des Mikroprozessors"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welcher Bereich beschäftigte sich Alan Turing auch mit?",
+        "answers": [
+          "Kryptanalyse",
+          "Biologie",
+          "Mathematik"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 16,
+    "article": "Die Entdeckung des Titanic-Umschlags im Eis von der Expedition 2019 hat Forscher weltweit aufgeschreckt. Das Wrack des legendären Ozeanliners lag bei 4.000 Metern Tiefe in der Nordatlantik, als es am 14. April 1912 sank. Die neuartigen Bilder zeigen das Schiff nach seinem Untergang noch erstaunlich gut erhalten. Es ist einzigartig, dass die Expedition einen Teil des Umschlags gefunden hat, der erst wenige Jahre vorher von dem Forschercrew entdeckt wurde.",
+    "questions": [
+      {
+        "question": "Wo lag das Wrack des legendären Ozeanliners, als es sank?",
+        "answers": [
+          "Nordatlantik",
+          "Südamerika",
+          "Mittelmeer"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welches Jahr sank das Schiff?",
+        "answers": [
+          "1912",
+          "1923",
+          "1934"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie tief lag das Wrack des Ozeanliners, als es entdeckt wurde?",
+        "answers": [
+          "1.000 Meter",
+          "2.000 Meter",
+          "4.000 Meter"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 17,
+    "article": "Die Entdeckung der Antarktis erfolgte im Jahr 1820 durch den britischen Seefahrer Edward Bransfield, als er die Antarktischen Halbinseln und die Inseltrichter entdeckte. Diese Expedition war Teil eines dreijährigen Forschungsprogramms, das von der britischen Regierung initiiert wurde, um neue Kontinente zu finden. Im Jahr 1840 folgte die erste wissenschaftliche Expedition nach Antarktika, geleitet von James Clark Ross, der die Südpolregion erkundete und den Ross-Meer entdeckte.",
+    "questions": [
+      {
+        "question": "Wer entdeckte die Antarktischen Halbinseln und die Inseltrichter im Jahr 1820?",
+        "answers": [
+          "James Clark Ross",
+          "Edward Bransfield",
+          "Ferdinand von Wrangel"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wann führte James Clark Ross die erste wissenschaftliche Expedition nach Antarktika?",
+        "answers": [
+          "1820",
+          "1840",
+          "1860"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum initiierte die britische Regierung ein dreijähriges Forschungsprogramm im Jahr 1819?",
+        "answers": [
+          "Um neue Inseln zu finden",
+          "Um neue Kontinente zu finden",
+          "Um die Südpolregion zu erkunden"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 18,
+    "article": "Die ältesten bekannten Überreste menschlicher Siedlungen finden sich in Anatolien, dem westlichen Teil des heutigen Türkei, und datieren insbesondere auf die Zeit vor 11.000 Jahren zurück. Die Hattusha-Landschaft, ein wichtiger Fundort prähistorischer Kulturen, enthält mehrere Tausend Jahre alten Schriftzeichen, die für die Entstehung der earliest Writing System in der Geschichte des Menschen sprechen.",
+    "questions": [
+      {
+        "question": "Wo finden sich die ältesten bekannten Überreste menschlicher Siedlungen?",
+        "answers": [
+          "Europa",
+          "Anatolien",
+          "Afrika"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie alt sind die Schriftzeichen in der Hattusha-Landschaft?",
+        "answers": [
+          "Tausend Jahre",
+          "Mehrere Tausend Jahre",
+          "Zehntausend Jahre"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Region ist wichtig für die Entstehung der earliest Writing System in der Geschichte des Menschen?",
+        "answers": [
+          "Europa",
+          "Anatolien",
+          "Asien"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 19,
+    "article": "Die Römer baute während ihrer Expansion nach Britannien eine Vielzahl von Straßen und Städten, darunter auch die Stadt Londinium, die heutige Hauptstadt Englands. Die Stadt war ein wichtiger Handelsplatz und hatte einen bedeutenden Einfluss auf die regionale Wirtschaft. Im Jahr 60 n. Chr. wurde Londinium jedoch durch ein Feuer fast komplett zerstört und musste neu errichtet werden. Dieser Ereignis markierte den Beginn der modernen Geschichte Londons und beeinflusste die Stadtentwicklung in den folgenden Jahrhunderten.",
+    "questions": [
+      {
+        "question": "Wann wurde Londinium durch ein Feuer fast komplett zerstört?",
+        "answers": [
+          "20 n. Chr.",
+          "60 n. Chr.",
+          "100 n. Chr."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum war Londinium ein wichtiger Handelsplatz?",
+        "answers": [
+          "Wegen seiner Lage an der Themse",
+          "Weil er Teil eines Handelsvertrags war",
+          "Durch seine Bedeutung für die regionale Wirtschaft"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wie beeinflusste das Feuer von 60 n. Chr. die Stadtentwicklung in den folgenden Jahrhunderten?",
+        "answers": [
+          "Es stoppte die Entwicklung der Stadt",
+          "Es markierte den Beginn der modernen Geschichte Londons",
+          "Es führte zu einer Zunahme von Straßen und Städten"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 20,
+    "article": "Die Deutsche Bahn hat ein beeindruckendes Erbe in puncto Eisenbahngeschichte. Als ursprüngliche Streckenführung der Berliner Nordbahn diente die Strecke zwischen Berlin und Magdeburg bis zum Ausbruch des Zweiten Weltkriegs. Nach Kriegsende wurde sie für den Güterverkehr genutzt, ehe sie in den 1950er Jahren stillgelegt wurde. Heute dient sie als Radweg und Wanderstrecke.",
+    "questions": [
+      {
+        "question": "Wo diente die Strecke zwischen Berlin und Magdeburg als ursprüngliche Streckenführung der Berliner Nordbahn?",
+        "answers": [
+          "Berlin und Hamburg",
+          "Berlin und Magdeburg",
+          "Berlin und Leipzig"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wann wurde die Strecke zwischen Berlin und Magdeburg stillgelegt?",
+        "answers": [
+          "Nach dem Ersten Weltkrieg",
+          "In den 1950er Jahren",
+          "Im Jahr 1945"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Worauf dient die Strecke heute?",
+        "answers": [
+          "Für den Personenverkehr",
+          "Als Radweg und Wanderstrecke",
+          "Für den Güterverkehr"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 21,
+    "article": "Die Entdeckung der Schatzkammer von Tutanchamun ist einzigartig in der Geschichte der Archäologie. Der britische Ägyptologe Howard Carter fand 1922 die Grabkammer des letzten ägyptischen Pharaos im Tal der Könige. Das Grab war nahezu unversehrt und enthielt eine riesige Sammlung von Juwelen, Goldschmuck und anderen kostbaren Gegenständen. Es ist einzigartig, weil es die einzige vollständig erhaltene Grabkammer eines ägyptischen Pharaos war.",
+    "questions": [
+      {
+        "question": "Wer fand die Grabkammer des letzten ägyptischen Pharaos?",
+        "answers": [
+          "Howard Carter",
+          "Tutanchamun",
+          "Ramses II"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "In welchem Jahr fand Howard Carter die Grabkammer des letzten ägyptischen Pharaos?",
+        "answers": [
+          "1921",
+          "1922",
+          "1932"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum ist die Grabkammer von Tutanchamun einzigartig in der Geschichte der Archäologie?",
+        "answers": [
+          "Weil sie nicht mehr existiert",
+          "Weil es die einzige vollständig erhaltene Grabkammer eines ägyptischen Pharaos war",
+          "Weil sie im Tal der Könige liegt"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 22,
+    "article": "Die Entdeckung der Antarktis durch die Schwedische Expedition unter Leitung von Ötzi 1853 war ein wichtiger Meilenstein in der Geschichte der Erforschung des Kontinents. Der Forscher gab dem Eisland den Namen Terra Australis, weil er annahm, dass es sich um einen kontinentalen Landmass handelte. Tatsächlich entdeckten sie nur eine Insel, die nun als Kaiser Wilhelm Land bekannt ist.",
+    "questions": [
+      {
+        "question": "Wer gab dem Eisland den Namen Terra Australis?",
+        "answers": [
+          "Ötzi",
+          "Kaiser Wilhelm",
+          "Ferdinand Magellen"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was entdeckten die Forscher auf dem Eisland tatsächlich?",
+        "answers": [
+          "einen kontinentalen Landmass",
+          "eine Insel",
+          "keinen Landmass"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welchen Namen hat die Insel heute?",
+        "answers": [
+          "Kaiser Wilhelm Land",
+          "Terra Australis",
+          "Antarktis"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "C1"
+  },
+  {
+    "id": 23,
+    "article": "Die Erfindung des Fahrrads ist ein wichtiger Meilenstein in der Geschichte des Verkehrs. 1817 entwarf der deutsche Ingenieur Karl von Drais das erste vollständige Fahrrad mit Rädern und Pedalen. Dieses Konzept revolutionierte die Fortbewegung und ermöglichte es Menschen, größere Strecken zu bewältigen als bisher möglich. Bis heute hat sich das Fahrrad zu einem wichtigen Mittel der Mobilität entwickelt.",
+    "questions": [
+      {
+        "question": "Wer entwarf das erste vollständige Fahrrad?",
+        "answers": [
+          "Karl von Drais",
+          "Leonardo da Vinci",
+          "Nikolaus August Otto"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was revolutionierte die Erfindung des Fahrrads?",
+        "answers": [
+          "die Fortbewegung von Tieren",
+          "die Möglichkeit, größere Strecken zu bewältigen",
+          "die Entwicklung der Straßen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie hat sich das Fahrrad entwickelt?",
+        "answers": [
+          "zu einem wichtigen Mittel des Verkehrs",
+          "zum wichtigsten Spielzeug",
+          "zur beliebtesten Form des Sports"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "C1"
+  }
+]{
+  "id": 24,
+  "article": "Die Entdeckung der antiken Städte auf dem afrikanischen Kontinent war ein wichtiger Schritt in der Erforschung der Menschheitsgeschichte. Der französische Forscher Henri Breuil entdeckte 1927 die Ruinen von Ouadane und Chinguetti, zwei ehemaligen Handelsstädten in Mauretanien. Diese Städte waren ein wichtiger Knotenpunkt im transsaharischen Handel, der zwischen Afrika und dem Mittleren Osten bestand. Die Entdeckung dieser Städte ermöglichte es Forschern, tiefer in die Geschichte des afrikanischen Kontinents einzutauchen und neue Erkenntnisse über das Leben und die Kultur der Menschen zu gewinnen.",
+  "questions": [
+    {
+      "question": "Wer entdeckte die Ruinen von Ouadane und Chinguetti?",
+      "answers": [
+        "Henri Breuil",
+        "Ferdinand de Lesseps",
+        "David Livingstone"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Welche Städte waren ein wichtiger Knotenpunkt im transsaharischen Handel?",
+      "answers": [
+        "Ouadane und Chinguetti",
+        "Kairo und Königstein",
+        "Tunis und Tripolis"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Was ermöglichte es Forschern, tiefer in die Geschichte des afrikanischen Kontinents einzutauchen?",
+      "answers": [
+        "Die Entdeckung der Ruinen von Ouadane und Chinguetti",
+        "Die Entdeckung des Nil",
+        "Die Entdeckung des Atlantiks"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "languageLevel": "C1"
+},

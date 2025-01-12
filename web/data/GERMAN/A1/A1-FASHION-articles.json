@@ -1,0 +1,855 @@
+[
+  {
+    "id": 0,
+    "article": "Die Modebranche ist ein wichtiger Teil der Textilindustrie. Pro Jahr produzieren die Unternehmen etwa 100 Milliarden Kleidungsstücke. Die größten Modemarken sind Gucci, Chanel und Louis Vuitton. Sie bieten Luxuskleidung an, die sehr teuer ist. Einige Modeunternehmen produzieren auch in Entwicklungsländern. Dort können sie billiger arbeiten.",
+    "questions": [
+      {
+        "question": "Was ist die Modemarken?",
+        "answers": [
+          "Gucci, Chanel und Louis Vuitton",
+          "Nike und Adidas",
+          "Diesel und Levi's"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wo können einige Modeunternehmen billiger arbeiten?",
+        "answers": [
+          "In Entwicklungsländern",
+          "Im Ausland",
+          "In Deutschland"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viel Milliarden Kleidungsstücke produzieren die Unternehmen pro Jahr?",
+        "answers": [
+          "10 Milliarden",
+          "50 Milliarden",
+          "100 Milliarden"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 1,
+    "article": "Die Modewelt ist sehr interessant. Die Menschen tragen verschiedene Kleidungsstücke, um sich auszudrücken. Einige Mode-Trends sind langsam weg und andere kommen hinzu. Es gibt viele Designer und Marken, die neue Mode-Kollektionen erstellen. Einige dieser Kollektionen sind sehr teuer und andere sehr billig.",
+    "questions": [
+      {
+        "question": "Worum geht es in dem Text?",
+        "answers": [
+          "Mode und Mode-Trends",
+          "Die Menschen und ihre Kleidung",
+          "Die Welt der Mode"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was ist langsam weg?",
+        "answers": [
+          "Neue Mode-Kollektionen",
+          "Einige Designer und Marken",
+          "Mode-Trends"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wie sind die meisten Mode-Kollektionen bezüglich des Preises gekennzeichnet?",
+        "answers": [
+          "Sie sind sehr teuer",
+          "Sie sind sehr billig",
+          "Sie sind mittelprächtig"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 2,
+    "article": "Die Modebranche ist eine große Industrie. Sie produziert jedes Jahr Milliarden Dollar Waren. Die Menschen lieben es, sich schön zu kleiden und modisch zu aussehen. Deshalb gibt es viele Designer-Labels und Modemärkte. Sie bieten verschiedene Kleidungsstücke an, wie z.B. Röcke, Hemden, Schuhe und Accessoires. Manche Leute kaufen gerne Designer-Kleidung, weil sie das Gefühl haben, einzigartig zu sein. Andere bevorzugen günstigere Marken.",
+    "questions": [
+      {
+        "question": "In welcher Branche produziert man jedes Jahr Milliarden Dollar Waren?",
+        "answers": [
+          "Bauindustrie",
+          "Modebranche",
+          "Chemische Industrie"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum kaufen einige Leute Designer-Kleidung?",
+        "answers": [
+          "Weil sie günstiger ist",
+          "Weil sie einzigartig zu sein möchten",
+          "Weil sie es nicht benötigen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Kleidungsstücke bietet ein Modemarkt an?",
+        "answers": [
+          "Bekleidung und Schuhe",
+          "Röcke, Hemden, Schuhe und Accessoires",
+          "Anzüge und Kostüme"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 3,
+    "article": "Die Modemarke Chanel wurde im Jahr 1910 von Gabrielle Chanel gegründet. Sie ist bekannt für ihre eleganten und femininen Kleidungsstücke. Der berühmte Tweed-Stoff wurde erstmalig verwendet, um eine Jacke zu produzieren. Dieser Stoff war sehr beliebt bei den Frauen der Gesellschaft.",
+    "questions": [
+      {
+        "question": "Wer gründete die Modemarke Chanel?",
+        "answers": [
+          "Gabrielle Chanel",
+          "Coco Chanel",
+          "Karl Lagerfeld"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Worin ist die Modemarke Chanel bekannt?",
+        "answers": [
+          "Ihrer eleganten und maskulinen Kleidungsstücke",
+          "Ihren eleganten und femininen Kleidungsstücke",
+          "Ihrer extravagantesten Kleidungsstücke"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welcher Stoff wurde von Chanel erstmals verwendet?",
+        "answers": [
+          "Tweed-Stoff",
+          "Leather",
+          "Silk"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 4,
+    "article": "Die Modewelt kennt viele interessante Fakten. Eine davon ist, dass die erste Jeans 1873 von Levi Strauss und Jacob Davis erfunden wurde. Sie war ursprünglich für Arbeiter gedacht, aber bald wurde sie ein Modeartikel. Heute gibt es Jeans in vielen verschiedenen Farben und Stilen.",
+    "questions": [
+      {
+        "question": "Wer erfand die erste Jeans?",
+        "answers": [
+          "Levi Strauss und Jacob Davis",
+          "Adidas",
+          "Nike"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Für wen war die erste Jeans ursprünglich gedacht?",
+        "answers": [
+          "Arbeiter",
+          "Modebegeisterte",
+          "Kinder"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Farben gibt es heute bei Jeans?",
+        "answers": [
+          "Nur blaue und weiße",
+          "Mehrere verschiedene Farben",
+          "Nur schwarz"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 5,
+    "article": "Die Modebranche ist eine Billionen-Dollar-Industrie. Sie produziert jährlich Milliarden Kleidungsstücke. Es gibt viele verschiedene Mode-Stilen, wie zum Beispiel Hip-Hop oder Gothic. Manche Menschen tragen auch traditionelle Trachten. In Deutschland gibt es viele berühmte Designer-Marken, wie zum Beispiel Hugo Boss oder Adidas.",
+    "questions": [
+      {
+        "question": "In welcher Billionen-Dollar-Industrie produziert man jährlich Milliarden Kleidungsstücke?",
+        "answers": [
+          "Modenschau",
+          "Modebranche",
+          "Textilindustrie"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welcher Mode-Stil ist bekannt für seine edlen und eleganten Kleidungsstücke?",
+        "answers": [
+          "Hip-Hop",
+          "Gothic",
+          "Haute Couture"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "In welchem Land gibt es viele berühmte Designer-Marken, wie zum Beispiel Hugo Boss oder Adidas?",
+        "answers": [
+          "Frankreich",
+          "Italien",
+          "Deutschland"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 6,
+    "article": "Die Modebranche ist eine wichtige Industriebranchenwirtschaft im Jahrzehnt. Sie umfasst verschiedene Bereiche wie die Herstellung von Kleidung und Accessoires, die Design und die Vermarktung von Markenzeichen. Die Modewelt ist sehr vielfältig und bietet viele Möglichkeiten für Designer und Kunden.",
+    "questions": [
+      {
+        "question": "In welchem Bereich der Modewelt wird von Markenzeichen gesprochen?",
+        "answers": [
+          "Herstellung von Kleidung",
+          "Design und Vermarktung",
+          "Accessoires und Logistik"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie kann man die Modewelt beschreiben?",
+        "answers": [
+          "Einfach und traditionell",
+          "Vielfältig und vielseitig",
+          "Komplex und langsam"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür stehen die verschiedenen Bereiche der Modewelt?",
+        "answers": [
+          "Herstellung von Kleidung",
+          "Design, Vermarktung und Kundenberatung",
+          "Accessoires und Marketing"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 7,
+    "article": "Die Modewelt hat sich sehr geändert seit den 1950er Jahren. Damals trugen Frauen lange Röcke und Mützen, während Männer Anzüge und Krawatten trugen. Heute sind die Mode Trends viel freizügiger und vielfältiger.",
+    "questions": [
+      {
+        "question": "Was trugen Frauen in den 1950er Jahren?",
+        "answers": [
+          "Röcke und Mützen",
+          "Kleider und Schuhe",
+          "Hosen und Jacken"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie sind die Mode Trends heute gegenüber den 1950er Jahren?",
+        "answers": [
+          "enger und simpler",
+          "freizügiger und vielfältiger",
+          "dunkler und schmaler"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was trugen Männer in den 1950er Jahren?",
+        "answers": [
+          "Hosen und Jacken",
+          "Kleider und Schuhe",
+          "Anzüge und Krawatten"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 8,
+    "article": "Die Modewelt ist ein wichtiger Teil unseres Lebens. Eine interessante Tatsache ist, dass die ersten Jeans aus dem 19. Jahrhundert stammen. Sie wurden von Levi Strauss und Jacob Davis erfunden. Die ersten Jeans waren Arbeitsschutzkleidung für Arbeiter in den USA.",
+    "questions": [
+      {
+        "question": "Wer erfand die ersten Jeans?",
+        "answers": [
+          "Levi Strauss und Jacob Davis",
+          "Nikolaus Tesla",
+          "Albert Einstein"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Für welche Arbeiter wurden die ersten Jeans erfunden?",
+        "answers": [
+          "Arbeiter in Deutschland",
+          "Arbeiter in Frankreich",
+          "Arbeiter in den USA"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "In welchem Jahrhundert stammen die ersten Jeans?",
+        "answers": [
+          "18. Jahrhundert",
+          "19. Jahrhundert",
+          "20. Jahrhundert"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 9,
+    "article": "Die Modebranche ist ein wichtiger Teil der Wirtschaft. Ein Jahrhundert lang produzierte die Textilindustrie in Deutschland hochwertige Kleidung. Heute gibt es über 1.000 Modemärkte und 10.000 textile Betriebe im Land.",
+    "questions": [
+      {
+        "question": "In welchem Jahrhundert produzierte die Textilindustrie in Deutschland hochwertige Kleidung?",
+        "answers": [
+          "18. Jahrhundert",
+          "19. Jahrhundert",
+          "20. Jahrhundert"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele textile Betriebe gibt es heute im Land?",
+        "answers": [
+          "500",
+          "10.000",
+          "50.000"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Modemärkte gibt es heute im Land?",
+        "answers": [
+          "100",
+          "1.000",
+          "5.000"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 10,
+    "article": "Die Modewelt ist ein wichtiger Teil unseres Lebens. Eine interessante Tatsache ist, dass die ersten Jeans 1873 von Levi Strauss erfunden wurden. Er produzierte sie für Arbeiter in den kalifornischen Goldminen. Heute werden Jeans weltweit getragen und sind ein wichtiger Bestandteil des Modealltags.",
+    "questions": [
+      {
+        "question": "Für wen produzierte Levi Strauss die ersten Jeans?",
+        "answers": [
+          "Arbeiter in den kalifornischen Goldminen",
+          "Kinder in Europa",
+          "Studenten in Asien"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wo wurden die ersten Jeans produziert?",
+        "answers": [
+          "in Europa",
+          "in Asien",
+          "in Kalifornien"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Warum werden Jeans heute weltweit getragen?",
+        "answers": [
+          "weil sie nur in den USA beliebt sind",
+          "weil sie ein wichtiger Bestandteil des Modealltags sind",
+          "weil sie nur für Arbeiter verwendet wurden"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 11,
+    "article": "Die Modebranche ist sehr groß und hat viele verschiedene Bereiche. Ein wichtiger Teil davon sind die Modemessen, auf denen neue Kollektionen vorgestellt werden. Die größte und bekannteste Modemesse ist die Paris Fashion Week in Paris.",
+    "questions": [
+      {
+        "question": "Welche Modemesse ist die größte und bekannteste?",
+        "answers": [
+          "Paris Fashion Week in Paris",
+          "New York Fashion Week",
+          "Milan Fashion Week"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wo findet die größte und bekannteste Modemesse statt?",
+        "answers": [
+          "Berlin",
+          "Paris",
+          "London"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was sind wichtige Teile der Modebranche?",
+        "answers": [
+          "Modemessen, Textilherstellung, Modejournalisten",
+          "Modejournalisten, Modemessen, Modefotografen",
+          "Textilherstellung, Modefotografen, Modemessen"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 12,
+    "article": "Die Modebranche ist sehr wichtig für die Wirtschaft. Jährlich werden weltweit 3 Milliarden Kleidungsstücke verkauft. Die meisten Menschen tragen jeden Tag ein oder zwei Kleidungsstücke. Einige Designer wie Chanel und Dior sind sehr bekannt und teuer. Andere wie Zara und H&M sind billiger und für jeden zugänglich.",
+    "questions": [
+      {
+        "question": "In welchem Bereich der Wirtschaft ist die Modebranche sehr wichtig?",
+        "answers": [
+          "Finanzwesen",
+          "Einzelhandel",
+          "Kleidungsindustrie"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wie viele Kleidungsstücke werden weltweit jährlich verkauft?",
+        "answers": [
+          "1 Million",
+          "3 Milliarden",
+          "5 Milliarden"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wer sind Designer, die bekannt für ihre teuren und luxuriösen Kleidungsstücke sind?",
+        "answers": [
+          "Chanel und Dior",
+          "Zara und H&M",
+          "Gucci und Versace"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 13,
+    "article": "Die Modebranche ist sehr groß. Sie umfasst alle Jahre etwa 3 Billionen Dollar. Die meisten Menschen tragen jeden Tag ein Kleidungsstück, das manchmal von Modeschöpfern entworfen wurde. Einige Designer sind sehr bekannt und verdienen Millionen Dollar pro Jahr. Andere müssen arbeiten, um ihre Träume zu erfüllen.",
+    "questions": [
+      {
+        "question": "Wie viel Dollar umfasst die Modebranche etwa?",
+        "answers": [
+          "1 Billionen Dollar",
+          "3 Billionen Dollar",
+          "10 Billionen Dollar"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wer entwirft manchmal Kleidungsstücke?",
+        "answers": [
+          "Menschen",
+          "Designer",
+          "Kunden"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum müssen einige Designer arbeiten?",
+        "answers": [
+          "Weil sie sehr bekannt sind",
+          "Um ihre Träume zu erfüllen",
+          "Weil sie viel Geld verdienen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 14,
+    "article": "Die Modebranche ist sehr wichtig für die Wirtschaft. Jährlich kaufen Menschen weltweit Milliarden von Kleidungsstücken. Die meisten Frauen bevorzugen designerische Kleider, während Männer lieber casual clothing tragen. In Deutschland gibt es viele Modehäuser wie H&M oder Zara.",
+    "questions": [
+      {
+        "question": "Wofür sind Modehäuser in Deutschland wichtig?",
+        "answers": [
+          "Sie vertreiben nur Luxusmode",
+          "Sie bieten billige Kleidung an",
+          "Sie sind Teil der Wirtschaft"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wie bevorzugen Frauen ihre Kleider?",
+        "answers": [
+          "sie tragen sie gerne casual",
+          "sie bevorzugen designerische Kleider",
+          "sie tragen nur schwarze Kleidung"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viel Milliarden Kleidungsstücken kaufen Menschen weltweit jährlich?",
+        "answers": [
+          "Millionen",
+          "Tausende von Millionen",
+          "Milliarden"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 15,
+    "article": "Die Modebranche ist sehr groß und wichtig für die Wirtschaft. Sie umfasst 2,5 Milliarden US-Dollar jährlich. Es gibt viele verschiedene Branchen innerhalb der Modewelt wie zum Beispiel die Bekleidung, Schuhe, Handtaschen und Accessoires. Viele Menschen arbeiten in dieser Branche als Designer, Modelle oder Verkäufer.",
+    "questions": [
+      {
+        "question": "Wie viel Milliarden US-Dollar umfasst die Modewirtschaft jährlich?",
+        "answers": [
+          "1 Milliarde",
+          "2,5 Milliarden",
+          "10 Milliarden"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "In welcher Branche arbeiten Designer in der Modebranche?",
+        "answers": [
+          "Bekleidung",
+          "Schuhe",
+          "Handtaschen und Accessoires"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viele Menschen arbeiten in der Modewirtschaft als Designer, Modelle oder Verkäufer?",
+        "answers": [
+          "Einen Million",
+          "Mehrere Millionen",
+          "Keine Angabe"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 16,
+    "article": "Das Modezentrums von New York City ist eines der bekanntesten und beliebtesten Einkaufszentren der Welt. Es bietet eine Vielzahl an Luxusmarken wie Chanel, Dior und Louis Vuitton. Die ersten Geschäfte wurden 1992 eröffnet und seitdem hat es sich zu einem wichtigen Ausstellungsort für die neuesten Modetrends entwickelt. Jährlich besuchen mehr als zehn Millionen Menschen das Modezentrums.",
+    "questions": [
+      {
+        "question": "In welchem Jahr wurden die ersten Geschäfte des Modezentrums eröffnet?",
+        "answers": [
+          "1985",
+          "1992",
+          "2000"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Menschen besuchen das Modezentrums jährlich?",
+        "answers": [
+          "5 Millionen",
+          "10 Millionen",
+          "15 Millionen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Marke ist nicht im Modezentrum vertreten?",
+        "answers": [
+          "Chanel",
+          "Dior",
+          "Levi's"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 17,
+    "article": "Die Modebranche ist sehr erfolgreich. Jährlich werden weltweit Milliarden Euro verdient. Die bekanntesten Marken wie Chanel und Dior machen riesige Gewinne. Frauen und Männer investieren gerne in schöne Kleidung. Designer sind berühmt für ihre kreativen Ideen. Ihre Kollektionen werden auf Modenschauen präsentiert. Manche Models sind sehr erfolgreich, sie verdienen Millionen.",
+    "questions": [
+      {
+        "question": "In welcher Branche ist Die Modebranche sehr erfolgreich?",
+        "answers": [
+          "Wissenschaft",
+          "Industrie",
+          "Moden"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wer investiert gerne in schöne Kleidung?",
+        "answers": [
+          "Männer",
+          "Frauen",
+          "Kinder"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo werden die Kollektionen von Designern präsentiert?",
+        "answers": [
+          "Im Internet",
+          "Auf Modenschauen",
+          "In Geschäften"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 18,
+    "article": "Die Damenmode ist sehr beliebt in Paris. Das berühmte Modehaus Chanel hat viele Designerkleider. Die Modelle tragen diese Kleider auf der Laufstange. Viele Menschen kaufen diese Kleider nach dem Modenschau. Es gibt viele verschiedene Modeschauen in Paris.",
+    "questions": [
+      {
+        "question": "Wo findet die Modenschau statt?",
+        "answers": [
+          "Im Modehaus Chanel",
+          "Auf der Laufstange",
+          "In Paris"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wer tragt die Designerkleider auf der Laufstange?",
+        "answers": [
+          "Die Designer",
+          "Die Modelle",
+          "Die Kunden"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum kaufen viele Menschen diese Kleider nach dem Modenschau?",
+        "answers": [
+          "Weil sie teuer sind",
+          "Weil sie modisch sind",
+          "Weil sie nie mehr verfügbar sind"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 19,
+    "article": "Modische Kleider werden in Paris entworfen. Die Modehäuser sind berühmt für ihre eleganten Entwürfe. Der Pariser Modeweg wird jedes Jahr von vielen Menschen besucht. Dort gibt es viele verschiedene Läden, die modische Kleidung anbieten. Einige von ihnen sind sehr teuer. Andere sind für jeden Preis geeignet. Die Modebranche ist ein wichtiger Teil der französischen Wirtschaft.",
+    "questions": [
+      {
+        "question": "Wo werden Modische Kleider entworfen?",
+        "answers": [
+          "New York",
+          "Paris",
+          "London",
+          "Berlin"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Länder sind bekannt für ihre Modehäuser?",
+        "answers": [
+          "Frankreich",
+          "Deutschland",
+          "Italien",
+          "Spanien"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was gibt es auf dem Pariser Modeweg?",
+        "answers": [
+          "Einziges Geschäft",
+          "Viele verschiedene Läden",
+          "Nur Designerboutiquen",
+          "Keine Geschäfte"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 20,
+    "article": "Die Modetrends kommen und gehen, aber einige Fakten bleiben immer interessant. Zum Beispiel wissen viele Menschen nicht, dass das Schuhbein namens \"Trompe l'oeil\" ist. Dieser Begriff stammt aus dem Französischen und bedeutet \"Trug des Auges\".",
+    "questions": [
+      {
+        "question": "Woher stammt der Begriff 'Trompe l'oeil'",
+        "answers": [
+          "Deutsch",
+          "Französisch",
+          "Englisch"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was bedeutet 'Trompe l'oeil'",
+        "answers": [
+          "Trug des Auges",
+          "Wahrheit",
+          "Lüge"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Warum ist der Begriff 'Trompe l'oeil' interessant",
+        "answers": [
+          "Er ist in Deutschland beliebt",
+          "Viele Menschen wissen nicht, dass das Schuhbein so heißt",
+          "Er stammt aus dem Englischen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 21,
+    "article": "Die Modetrends der 1960er Jahre waren sehr einzigartig. Die Frauen trugen lange Röcke und hohe Schuhe. Sie setzten auch viel Wert auf Accessoires wie Taschen und Halsketten. Der modische Star des Jahrzehnts war Coco Chanel, die Gründerin des Hauses Chanel.",
+    "questions": [
+      {
+        "question": "Wer war der modische Star des Jahrzehnts?",
+        "answers": [
+          "Coco Chanel",
+          "Karl Lagerfeld",
+          "Christian Dior"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie beschrieben die Frauen ihre Kleidung?",
+        "answers": [
+          "mit kurzen Röcken und niedrigen Schuhen",
+          "mit langen Röcken und hohen Schuhen",
+          "mit Shorts und Sandalen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Accessoires setzten die Frauen großen Wert?",
+        "answers": [
+          "Taschen und Halsketten",
+          "Ringe und Ohrringe",
+          "Uhren und Bälle"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 22,
+    "article": "Die Modeindustrie ist ein wichtiger Wirtschaftszweig. Jährlich werden weltweit Milliarden Euro umgesetzt. Es gibt viele verschiedene Modemarken, wie z.B. Chanel oder Gucci. Manche Designer sind berühmt, andere weniger bekannt. Die Modebranche ist sehr konsumorientiert und reagiert schnell auf Trends.",
+    "questions": [
+      {
+        "question": "Welcher Wirtschaftszweig ist ein wichtiger Teil der Modeindustrie?",
+        "answers": [
+          "Landwirtschaft",
+          "Industrie",
+          "Modeindustrie"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wie viel wird jährlich in der Modeindustrie umgesetzt?",
+        "answers": [
+          "Millionen Euro",
+          "Tausende Euro",
+          "Milliarden Euro"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Was ist für die Modebranche charakteristisch?",
+        "answers": [
+          "Sie ist sehr umweltfreundlich",
+          "Sie reagiert langsam auf Trends",
+          "Sie ist sehr konsumorientiert und reagiert schnell auf Trends"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 23,
+    "article": "Die Modewelt hat viele Überraschungen zu bieten. Ein interessantes Beispiel ist die Geschichte des Gürtels. Der Gürtel wurde vor etwa 8000 Jahren erfunden und war damals ein notwendiger Schutz für die Kleidung. Heute sind Gürtel ein wichtiger Teil der Modewelt und gibt den Outfit Charakter.",
+    "questions": [
+      {
+        "question": "Wann wurde der Gürtel erfunden?",
+        "answers": [
+          "vor etwa 100 Jahren",
+          "vor etwa 8.000 Jahren",
+          "vor etwa 50 Jahren"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum war der Gürtel damals notwendig?",
+        "answers": [
+          "er sollte schön aussehen",
+          "er sollte den Outfit Charakter geben",
+          "er sollte als Schutz für die Kleidung dienen"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Welchen Zweck erfüllt der Gürtel heute?",
+        "answers": [
+          "als Schuhwerkzeug",
+          "als Schutz für die Kleidung",
+          "als wichtiger Teil der Modewelt"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A1"
+  },
+  {
+    "id": 24,
+    "article": "Die Designerin Coco Chanel hat das Modehaus Chanel gegründet. Sie hat die Frauenkleidung revolutioniert. Ihre erste Kollektion war 1913 in Paris gezeigt worden. Es gab viele neue Ideen wie den Schlepplastik und den Dirndelrock. Die Damenmode wurde moderner und praktischer. Coco Chanel ist bis heute eine Ikone der Modeindustrie.",
+    "questions": [
+      {
+        "question": "Wer gründete das Modehaus Chanel?",
+        "answers": [
+          "Die Designerin Elsa Schiaparelli",
+          "Die Designerin Coco Chanel",
+          "Die Designerin Yves Saint Laurent"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wo wurde die erste Kollektion von Chanel gezeigt?",
+        "answers": [
+          "New York",
+          "Paris",
+          "London"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wann wurde die erste Kollektion von Chanel gezeigt?",
+        "answers": [
+          "1905",
+          "1913",
+          "1920"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A1"
+  }
+]

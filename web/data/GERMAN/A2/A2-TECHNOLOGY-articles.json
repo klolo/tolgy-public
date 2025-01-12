@@ -1,0 +1,843 @@
+[
+  {
+    "id": 0,
+    "article": "Die Smartphones haben sich in den letzten Jahren sehr schnell entwickelt. Heute können sie viel mehr als nur Telefonieren. Sie können Bilder und Videos machen, Musik hören und Nachrichten schreiben. Viele Menschen verwenden ihre Smartphones auch um online zu shoppen oder Spiele zu spielen. Die meisten Smartphones sind jetzt mit Touchscreen ausgestattet und haben viele weitere Funktionen wie GPS, Kamera und Microfon.",
+    "questions": [
+      {
+        "question": "Was können Smartphones heute außer Telefonieren?",
+        "answers": [
+          "Nur Telefonieren",
+          "Bilder und Videos machen, Musik hören und Nachrichten schreiben",
+          "Keine der oben genannten Optionen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was ist ein typisches Merkmal von vielen Smartphones?",
+        "answers": [
+          "Ein Tastatur",
+          "Ein Touchscreen",
+          "Eine Kamera"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür verwenden viele Menschen ihre Smartphones?",
+        "answers": [
+          "Nur zum Telefonieren",
+          "Online Shoppen oder Spiele spielen",
+          "Nichts von obigen Optionen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 1,
+    "article": "Der Computer ist ein wichtiger Teil unseres täglichen Lebens. Er ermöglicht es uns, Informationen schnell und einfach zu finden. Ein Beispiel dafür ist die Suchmaschine Google. Sie kann innerhalb von Sekunden Antworten auf unsere Fragen liefern. Außerdem gibt es viele weitere Anwendungen wie E-Mails, Bilder und Videos, die über das Internet zugänglich sind.",
+    "questions": [
+      {
+        "question": "Was ermöglicht es uns, Informationen schnell und einfach zu finden?",
+        "answers": [
+          "Suchmaschine Google",
+          "E-Mail",
+          "Bilder"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Anwendung gibt es über das Internet zugänglich?",
+        "answers": [
+          "E-Mails",
+          "Papierbriefe",
+          "Videos"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Was ist ein Beispiel für eine Suchmaschine?",
+        "answers": [
+          "Google Maps",
+          "YouTube",
+          "Google"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 2,
+    "article": "Die Smartphone-Kamera hat sich enorm entwickelt. Heute kann man mit seinem Handy Fotos machen, die besser sind als jene von professionellen Kameras aus den 90ern. Die Bildauflösung ist so hoch, dass man sogar Details erkennen kann, die bei älteren Kameras nicht sichtbar waren. Zudem können Smartphones auch Videos aufnehmen und bearbeiten. Dies ermöglicht es Menschen, ihre Erinnerungen mit anderen zu teilen.",
+    "questions": [
+      {
+        "question": "Was kann man heute mit seinem Handy machen?",
+        "answers": [
+          "Fotos machen",
+          "Videos aufnehmen",
+          "Bilder bearbeiten"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Warum sind die Bildauflösung von Smartphones besser als jene älterer Kameras?",
+        "answers": [
+          "Weil sie mehr Details erkennen können",
+          "Weil sie bessere Optik haben",
+          "Weil sie höhere Auflösung haben"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was ermöglicht es Menschen, ihre Erinnerungen mit anderen zu teilen?",
+        "answers": [
+          "Die Bildauflösung von Smartphones",
+          "Das Bearbeiten von Videos",
+          "Das Aufnehmen und Bearbeiten von Videos"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 3,
+    "article": "Das Internet ist heute ein wichtiger Teil unseres täglichen Lebens. Es gibt Millionen von Websites und Online-Diensten, die uns helfen, unsere Bedürfnisse zu erfüllen. Eine interessante Tatsache ist, dass das World Wide Web 1989 von Tim Berners-Lee erfunden wurde. Er war ein britischer Ingenieur, der an der CERN arbeitete. Seine Erfindung hat unser Leben revolutioniert und ermöglicht uns, weltweit zu kommunizieren und Informationen auszutauschen.",
+    "questions": [
+      {
+        "question": "Wer erfand das World Wide Web?",
+        "answers": [
+          "Steve Jobs",
+          "Bill Gates",
+          "Tim Berners-Lee"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Wo arbeitete Tim Berners-Lee, als er das World Wide Web erfand?",
+        "answers": [
+          "Google",
+          "CERN",
+          "Microsoft"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was hat die Erfindung des World Wide Webs revolutioniert?",
+        "answers": [
+          "Die Verbreitung von Computer",
+          "Das Leben von Menschen mit Behinderungen",
+          "Unsere Fähigkeit, weltweit zu kommunizieren und Informationen auszutauschen"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 4,
+    "article": "Die ersten Computer wurden in den 1940er Jahren entwickelt. Der erste Computer war der Electronic Numerical Integrator And Computer (ENIAC). Er wurde von John Mauchly und J. Presper Eckert erfunden. Dieser Computer war sehr groß und wog etwa 27 Tonnen. Er war jedoch sehr schnell und konnte innerhalb von Sekunden Berechnungen durchführen. Die Erfindung des ENIACs ist die Grundlage für den heutigen Fortschritt in der Informatik.",
+    "questions": [
+      {
+        "question": "Wer erfand den ersten Computer?",
+        "answers": [
+          "John Mauchly und J. Presper Eckert",
+          "Bill Gates und Steve Jobs",
+          "Alan Turing"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viel wog der erste Computer (ENIAC)?",
+        "answers": [
+          "27 Tonnen",
+          "1 Tonne",
+          "100 kg"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "In welchem Jahrzehnt wurden die ersten Computer entwickelt?",
+        "answers": [
+          "1940er Jahre",
+          "1950er Jahre",
+          "1960er Jahre"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 5,
+    "article": "Das Internet wurde im Jahr 1983 von Vint Cerf und Bob Kahn erfunden. Sie entwickelten das Protokoll TCP/IP, um Daten zwischen Computern auszutauschen. Heute ist das Internet ein wichtiger Teil unseres täglichen Lebens. Es gibt Millionen von Websites, auf denen wir Informationen finden können.",
+    "questions": [
+      {
+        "question": "Wer erfand das Internet?",
+        "answers": [
+          "Vint Cerf und Bob Kahn",
+          "Tim Berners-Lee",
+          "Steve Jobs"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was entwickelten Vint Cerf und Bob Kahn?",
+        "answers": [
+          "Ein Buch über die Geschichte des Internets",
+          "Das Protokoll TCP/IP",
+          "Eine neue Art von Computer"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Websites gibt es heute im Internet?",
+        "answers": [
+          "Tausende",
+          "Millionen",
+          "Zehntausende"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 6,
+    "article": "Das Internet wurde erstmals im Jahr 1983 von Vint Cerf und Bob Kahn entwickelt. Sie haben den ersten Protokollstandard für das World Wide Web namens TCP/IP geschaffen. Dieser Standard ermöglicht heute die Kommunikation zwischen Computerprogrammen über das Netzwerk.",
+    "questions": [
+      {
+        "question": "Wer entwickelte den ersten Protokollstandard für das World Wide Web?",
+        "answers": [
+          "Vint Cerf und Bob Kahn",
+          "Steve Jobs",
+          "Bill Gates"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wann wurde das Internet erstmals entwickelt?",
+        "answers": [
+          "1982",
+          "1983",
+          "1995"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welcher Standard ermöglicht heute die Kommunikation zwischen Computerprogrammen über das Netzwerk?",
+        "answers": [
+          "HTTP",
+          "TCP/IP",
+          "FTP"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 7,
+    "article": "Die erste Smartphone-App wurde im Jahr 1997 entwickelt und hieß \"Hamberger Fish\". Sie ermöglichte Benutzern das Senden von Kurznachrichten über Mobiltelefone.",
+    "questions": [
+      {
+        "question": "In welchem Jahr wurde die Smartphone-App 'Hamberger Fish' entwickelt?",
+        "answers": [
+          "1996",
+          "1997",
+          "2001"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie hieß die erste Smartphone-App?",
+        "answers": [
+          "iPhone",
+          "Hamberger Fish",
+          "Android"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was ermöglichte Benutzern das Senden von Kurznachrichten über Mobiltelefone?",
+        "answers": [
+          "SMS",
+          "E-Mail",
+          "Hamberger Fish"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 8,
+    "article": "Das Internet ist ein riesiges Netzwerk von Computern und anderen Geräten, das es ermöglicht, Informationen auszutauschen und Daten zu teilen. Es wurde im Jahr 1983 von Vint Cerf und Bob Kahn entwickelt. Heute hat das Internet mehr als vier Milliarden Nutzer weltweit.",
+    "questions": [
+      {
+        "question": "Wer hat das Internet im Jahr 1983 entwickelt?",
+        "answers": [
+          "Vint Cerf und Bob Kahn",
+          "Steve Jobs und Bill Gates",
+          "Tim Berners-Lee"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viele Nutzer hat das Internet heute weltweit?",
+        "answers": [
+          "Einige Millionen",
+          "Zwei Milliarden",
+          "Mehr als vier Milliarden"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 9,
+    "article": "Die ersten Computer wurden in den 1940er Jahren entwickelt. Der erste Computer war der ENIAC. Er war sehr groß und hatte viele Teile. Heute gibt es Computer von verschiedenen Größen und Formen. Die meisten Menschen haben einen Computer auf ihrem Smartphone oder Tablet. Es gibt auch Computer, die speziell für Spiele verwendet werden.",
+    "questions": [
+      {
+        "question": "Wann wurden die ersten Computer entwickelt?",
+        "answers": [
+          "1930er Jahren",
+          "1940er Jahren",
+          "1950er Jahren"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welcher Computer war der erste?",
+        "answers": [
+          "ENIAC",
+          "IBM",
+          "Apple"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wo finden sich heute die meisten Menschen ihren Computer?",
+        "answers": [
+          "auf ihrem Desktop",
+          "auf ihrem Smartphone oder Tablet",
+          "in einem Internetcafe"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 10,
+    "article": "Die Computerchips werden in Taiwan produziert. Sie sind sehr wichtig für die moderne Technologie. Jeder Computer benötigt einen Prozessor, um Daten zu verarbeiten. Der erste Mikroprozessor wurde 1971 von Intel entwickelt. Er war nur ein Zentimeter groß. Heute gibt es Prozessoren mit bis zu 20 Kernen. Sie sind sehr schnell und ermöglichen eine schnelle Verarbeitung von Daten.",
+    "questions": [
+      {
+        "question": "Wer entwickelte den ersten Mikroprozessor?",
+        "answers": [
+          "Intel",
+          "Taiwan",
+          "Microsoft"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie groß war der erste Mikroprozessor?",
+        "answers": [
+          "10 Zentimeter",
+          "1 Zentimeter",
+          "20 Kernen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Kerne können Prozessoren heute haben?",
+        "answers": [
+          "5 Kernen",
+          "10 Kernen",
+          "20 Kernen"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 11,
+    "article": "Die ersten Computer wurden in den 1940er Jahren entwickelt. Sie waren riesig und konnten nur einfache Berechnungen durchführen. Heute gibt es Computer von allerhand Größe und sie können sehr viele Dinge tun. Viele Menschen verwenden Smartphones, die kleinen Computer sind, um Nachrichten zu lesen oder mit Freunden zu sprechen. Es gibt auch Computer, die im All verwendet werden, um Bilder von der Erde zu schießen. Die Technologie entwickelt sich ständig und bringt uns immer neue Möglichkeiten.",
+    "questions": [
+      {
+        "question": "Wann wurden die ersten Computer entwickelt?",
+        "answers": [
+          "1920er Jahren",
+          "1940er Jahren",
+          "1950er Jahren"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was können heutige Computer tun?",
+        "answers": [
+          "nur einfache Berechnungen durchführen",
+          "viel Dinge tun",
+          "nichts tun"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür werden manche Computer im All verwendet?",
+        "answers": [
+          "um Bilder von der Erde zu schießen",
+          "um Nachrichten zu lesen",
+          "um mit Freunden zu sprechen"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 12,
+    "article": "Die Computer-Chips werden in Taiwan produziert. Es gibt verschiedene Arten von Chips, wie zum Beispiel Grafikkarten oder CPU-Chips. Diese Chips sind sehr wichtig für die Funktion von Computern und Spielkonsolen. Einige der größten Hersteller von Computer-Chips sind TSMC und UMC. Sie produzieren Millionen von Chips pro Jahr.",
+    "questions": [
+      {
+        "question": "Wo werden Computer-Chips produziert?",
+        "answers": [
+          "Deutschland",
+          "Taiwan",
+          "USA"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Firmen sind größte Hersteller von Computer-Chips?",
+        "answers": [
+          "Apple und Samsung",
+          "TSMC und UMC",
+          "Google und Microsoft"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Chips produzieren die größten Hersteller pro Jahr?",
+        "answers": [
+          "Einfach keine",
+          "Mehrere Tausend",
+          "Millionen"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 13,
+    "article": "Die Computerchips werden in Taiwan produziert. Es gibt verschiedene Arten von Chips, wie z.B. CPU-Chips und Grafikchips. Die CPU-Chips sind für die Verarbeitung von Daten zuständig, während die Grafikchips für die Darstellung von Bildern auf dem Bildschirm sorgen.",
+    "questions": [
+      {
+        "question": "Wo werden Computerchips produziert?",
+        "answers": [
+          "In Deutschland",
+          "In Taiwan",
+          "In Japan"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür sind CPU-Chips zuständig?",
+        "answers": [
+          "FÜR DIE DARSTELLUNG VON BILDERN AUF DEM BILDSCHEIN",
+          "Für die Verarbeitung von Daten",
+          "Für den Transport von Informationen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür sind Grafikchips zuständig?",
+        "answers": [
+          "FÜR DEN TRANSPORT VON INFORMATIONEN",
+          "Für die Darstellung von Bildern auf dem Bildschirm",
+          "Für die Verarbeitung von Daten"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 14,
+    "article": "Die Smartphone-Produktion hat sich in den letzten Jahren rapide entwickelt. Heute gibt es mehrere Milliarden solcher Geräte auf der Welt. Das erste Handy kam 1973 auf den Markt und war sehr groß und teuer. Seither haben sich die Technologien stark verbessert und die Preise gesunken. Viele Menschen verwenden ihre Smartphones jeden Tag, um Nachrichten zu lesen, Bilder zu schauen oder Videos anzusehen.",
+    "questions": [
+      {
+        "question": "In welchem Jahr kam das erste Handy auf den Markt?",
+        "answers": [
+          "1972",
+          "1973",
+          "1974"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Warum sind die Preise für Smartphones gesunken?",
+        "answers": [
+          "Weil es weniger Menschen gibt",
+          "Weil sich die Technologien stark verbessert haben",
+          "Weil es mehrere Milliarden solcher Geräte gibt"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür verwenden viele Menschen ihre Smartphones?",
+        "answers": [
+          "Um Geld zu verdienen",
+          "Um Nachrichten zu lesen, Bilder zu schauen oder Videos anzusehen",
+          "Um Technologien zu verbessern"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 15,
+    "article": "Die ersten Computer wurden in den 1940er Jahren entwickelt. Der erste Computer, der funktionierte, war ENIAC. Er wurde 1946 gebaut und war sehr groß. Er nahm ein ganzen Raum ein. Seine Größe war fast so groß wie ein Haus.",
+    "questions": [
+      {
+        "question": "Wann wurde der Computer ENIAC gebaut?",
+        "answers": [
+          "1944",
+          "1946",
+          "1950"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie groß war ENIAC?",
+        "answers": [
+          "klein",
+          "groß",
+          "mäßig"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Welches Jahr ist im Text erwähnt, als das Jahr der Fertigstellung von ENIAC?",
+        "answers": [
+          "1945",
+          "1946",
+          "1950"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 16,
+    "article": "Das Internet ist ein wichtiger Teil unseres täglichen Lebens. Es gibt uns Zugang zu Informationen, ermöglicht es uns, mit anderen in Kontakt zu treten und bietet viele andere Möglichkeiten. Die Geschwindigkeit des Internets hat sich in den letzten Jahren stark verbessert. Heute können wir Daten in Sekundenschnelle übermitteln. Dies ist wichtig für Unternehmen, die schnellere Kommunikation benötigen. Deshalb investieren sie viel Geld in das Internet.",
+    "questions": [
+      {
+        "question": "Was verbesserte sich in den letzten Jahren stark?",
+        "answers": [
+          "die Geschwindigkeit des Internets",
+          "die Verfügbarkeit von Informationen",
+          "die Kosten für die Internetnutzung"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Warum investieren Unternehmen viel Geld in das Internet?",
+        "answers": [
+          "weil es billig ist",
+          "weil sie schnellere Kommunikation benötigen",
+          "weil es nicht wichtig ist"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was ermöglicht uns das Internet?",
+        "answers": [
+          "nur Zugang zu Informationen",
+          "Zugang zu Informationen und Kontakt mit anderen",
+          "keinen Zugang zu Informationen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 17,
+    "article": "Das Internet ist ein riesiger Bibliothekskatalog. Es enthält Milliarden von Dokumenten, die überall auf der Welt sind. Einige Websites bieten kostenlose Informationen an, während andere für Geld abonnieren lassen müssen. Die Suchmaschinen helfen uns, die richtigen Seiten zu finden. Sie suchen nach bestimmten Worten und zeigen uns die Ergebnisse. Die schnelle Verbindung zum Internet ermöglicht es uns, schnell Daten zu übertragen.",
+    "questions": [
+      {
+        "question": "Wie beschreibt das Textstück das Internet?",
+        "answers": [
+          "Bibliothek",
+          "Katalog",
+          "Server"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was bietet einige Websites an?",
+        "answers": [
+          "Keine Informationen",
+          "Freie Informationen",
+          "Gebührenpflichtige Informationen"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wofür nutzen die Suchmaschinen uns?",
+        "answers": [
+          "Daten zu speichern",
+          "Seiten zu suchen",
+          "Bücher zu kaufen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 18,
+    "article": "Die Computer-Chip-Fertigung ist ein wichtiger Schritt in der Entwicklung von Smartphones und Notebooks. Die Hersteller verwenden verschiedene Materialien wie Silizium oder Germanium, um die Chips zu produzieren. Ein wichtiger Faktor bei der Chip-Fertigung ist die Temperatur, da höhere Temperaturen die Qualität des Chips beeinträchtigen können. Moderne Computer-Chips sind sehr schnell und haben viel Speicherplatz, was sie für viele Anwendungen geeignet macht.",
+    "questions": [
+      {
+        "question": "Worin bestehen Computer-Chips?",
+        "answers": [
+          "Silizium und Germanium",
+          "Gold und Silber",
+          "Platin und Titan"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welcher Faktor bei der Chip-Fertigung ist wichtig?",
+        "answers": [
+          "Die Temperatur",
+          "Die Geschwindigkeit",
+          "Der Speicherplatz"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was macht Computer-Chips für viele Anwendungen geeignet?",
+        "answers": [
+          "Sie sind langsam",
+          "Sie haben wenig Speicherplatz",
+          "Sie sind schnell und haben viel Speicherplatz"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 19,
+    "article": "Das Internet hat sich in den letzten Jahren sehr schnell entwickelt. Heutzutage gibt es weltweit über 4,2 Milliarden Menschen, die im Internet surfen. Der erste Webbrowser wurde 1990 von Tim Berners-Lee erfunden. Er hieß \"WorldWideWeb\" und ermöglichte das Surfen auf der Weltweite Webs. Die ersten Websites waren sehr einfach gestaltet und enthielten nur Text und Bilder. Heutzutage sind die Websites jedoch viel komplexer und bieten viele Funktionen wie z.B. Online-Shopping, Sozialnetzwerke und Spiele.",
+    "questions": [
+      {
+        "question": "Wer erfand den ersten Webbrowser?",
+        "answers": [
+          "Tim Berners-Lee",
+          "Steve Jobs",
+          "Bill Gates"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wie viele Milliarden Menschen surfen im Internet heutzutage?",
+        "answers": [
+          "2,5 Milliarden",
+          "4,2 Milliarden",
+          "1 Milliarden"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Was hieß der erste Webbrowser von Tim Berners-Lee?",
+        "answers": [
+          "Internet Explorer",
+          "WorldWideWeb",
+          "Google Chrome"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 20,
+    "article": "Die ersten Computer wurden in den 1940er Jahren entwickelt. Sie waren riesig und arbeiteten sehr langsam. Heute sind sie winzig und können unzählige Aufgaben gleichzeitig ausführen. Ein wichtiger Fortschritt war die Erfindung des Mikroprozessors. Dieser ermöglichte es, Computer in kleinen Geräten zu bauen, wie z.B. Mobiltelefonen oder Taschenrechnern.",
+    "questions": [
+      {
+        "question": "Wann wurden die ersten Computer entwickelt?",
+        "answers": [
+          "1950er Jahren",
+          "1960er Jahren",
+          "1940er Jahre"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Warum sind moderne Computer winzig und können viele Aufgaben ausführen?",
+        "answers": [
+          "Weil sie nur noch batteriebetrieben werden",
+          "Weil sie den Mikroprozessor haben",
+          "Weil sie so große sind"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wodurch wurde der Bau von kleinen Geräten wie Mobiltelefonen oder Taschenrechnern ermöglicht?",
+        "answers": [
+          "Durch die Erfindung des Mikroprozessors",
+          "Durch die Erfindung des Hauptverarbeiters",
+          "Durch die Erfindung des Speichers"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 21,
+    "article": "Die Computer-Chips werden in Taiwan hergestellt. Jedes Jahr produzieren die Unternehmen dort Millionen von Chips für die Weltmarkts. Einige der bekanntesten Firmen sind TSMC und UMC. Sie entwickeln neue Technologien, um die Geschwindigkeit und Kapazität zu erhöhen. Die Chips werden dann in andere Länder exportiert und verwendet werden, um Computer, Smartphones und andere Geräte zu bauen.",
+    "questions": [
+      {
+        "question": "Wo werden Computer-Chips hergestellt?",
+        "answers": [
+          "in Europa",
+          "in Taiwan",
+          "in Asien"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Welche Firmen entwickeln neue Technologien für die Chips?",
+        "answers": [
+          "Intel und AMD",
+          "TSMC und UMC",
+          "Apple und Google"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wozu werden die Chips exportiert und verwendet?",
+        "answers": [
+          "für Medizinprodukte",
+          "für Computer, Smartphones und andere Geräte",
+          "für die Herstellung von Spielzeug"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 22,
+    "article": "Das Internet wurde erstellt von drei Brüdern namens Tim Berners-Lee im Jahre 1989. Er entwickelte die Hypertext-Übertragungsprotokolle (HTTP) und den Hypertext-Markup-Language (HTML). Dies ermöglichte es, Webseiten zu erstellen und sie über das Internet auszutauschen. Heute gibt es weltweit mehrere Milliarden Webseiten.",
+    "questions": [
+      {
+        "question": "Wer erstellte das Internet?",
+        "answers": [
+          "Tim Berners-Lee",
+          "Steve Jobs",
+          "Bill Gates"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Wann wurde das Internet erstellt?",
+        "answers": [
+          "1989",
+          "1995",
+          "2000"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Welche Sprache ermöglichte die Erstellung von Webseiten?",
+        "answers": [
+          "Java",
+          "HTML",
+          "Python"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 23,
+    "article": "Das Internet ist ein großes Netzwerk von Computer-Systemen und -Geräten. Es ermöglicht es uns, mit anderen Menschen zu kommunizieren und Informationen auszutauschen. Die erste Website wurde im Jahr 1991 von Tim Berners-Lee entwickelt. Heute gibt es weltweit über 4,2 Milliarden Internet-Nutzer.",
+    "questions": [
+      {
+        "question": "Wer entwickelte die erste Website?",
+        "answers": [
+          "Bill Gates",
+          "Tim Berners-Lee",
+          "Steve Jobs"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie viele Internet-Nutzer gibt es weltweit?",
+        "answers": [
+          "4,2 Milliarden",
+          "3,5 Milliarden",
+          "2,8 Milliarden"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Was ermöglicht uns das Internet?",
+        "answers": [
+          "Informationen auszutauschen",
+          "Mit anderen Menschen zu kommunizieren",
+          "Bilder herunterladen"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "languageLevel": "A2"
+  },
+  {
+    "id": 24,
+    "article": "Die Computer-Chips produzieren wir heute in Deutschland. Jährlich werden Millionen davon hergestellt. Sie sind ein wichtiger Bestandteil aller Computer und Mobilgeräte. Die Chips ermöglichen es uns, Daten zu speichern und zu verarbeiten. Ohne sie wären unsere Geräte nicht mehr brauchbar. In den letzten Jahren hat sich die Produktion von Chips sehr schnell entwickelt. Heute gibt es viele verschiedene Arten von Chips, wie zum Beispiel Grafik-Chips oder Prozessor-Chips. Jeder Chip hat seine eigene Funktion und ist wichtig für das Funktionieren der Geräte.",
+    "questions": [
+      {
+        "question": "Wo werden Computer-Chips heute produziert?",
+        "answers": [
+          "USA",
+          "Deutschland",
+          "China"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Wie wichtig sind Chips für die Funktion von Geräten?",
+        "answers": [
+          "Nicht sehr wichtig",
+          "Einfach wichtig",
+          "Ohne sie wären unsere Geräte nicht mehr brauchbar"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Was ermöglichen Chips?",
+        "answers": [
+          "Daten zu speichern",
+          "Daten zu verarbeiten",
+          "Beides"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "languageLevel": "A2"
+  }
+]
